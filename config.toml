@@ -2,6 +2,7 @@
 baseurl = "https://blog.curtpoff.com/"
 languageCode = "en"
 title = "Curt Poff"
+description = "Curt Poff is a veteran techie in Tucson AZ. Past homes include Portland and the Bay Area, where he worked for Macwolrd, Walmart.com, and Nike."
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features

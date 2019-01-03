@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hugo is now driving this site"
+description: "Having spent the past couple months wrestling with Jekyll - or more specifically, Ruby gem dependancy headaches - I sought a new static site generator."
 date: 2019-01-02T21:43:54-07:00
 author: Curt Poff
 categories: ["website"]

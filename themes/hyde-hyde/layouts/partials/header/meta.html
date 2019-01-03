@@ -1,18 +1,12 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta http-equiv="Cache-Control" content="public" />
-{{ "<!-- Enable responsiveness on mobile devices -->" | safeHTML }}
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-{{ .Hugo.Generator }}
-{{ if .IsHome }}
-    {{ $.Scratch.Set "theTitle" .Site.Title }}
-{{else}}
-    {{ $.Scratch.Set "theTitle" .Title}}
-    {{ $.Scratch.Add "theTitle" " • "}}
-    {{ $.Scratch.Add "theTitle" .Site.Title}}
-{{ end }}
-<title>{{ $.Scratch.Get "theTitle" }}</title>
-{{ with .Site.Params.meta.description }}<meta name="description" content="{{ . }}">{{ end }}
-{{ with .Site.Params.meta.keywords }}<meta name="keywords" content="{{.}}">{{ end }}
-{{ template "_internal/twitter_cards.html" . }}
-{{ template "_internal/opengraph.html" . }}
+<title>{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.SiteDescription }}{{ end }}">
+<!-- Responsive meta tag -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Open Graph Protocol http://ogp.me/ -->
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+<meta property="og:image" content="{{ if .Params.image }}{{.Site.BaseURL}}/images/{{.Params.image}}{{ else }}{{.Site.BaseURL}}/images/site-logo.png{{ end }}">
+<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.SiteDescription }}{{ end }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
