@@ -45,7 +45,7 @@ rss = true
   twitter = "cpoff"
   keybase = "cpoff"
   github = "cpoff"
-  stackoverflow = "4547718"
+#   stackoverflow = "4547718"
   linkedin = "cpoff"
   instagram = "cpoff"
   gravatar = "curt.poff@gmail.com"
@@ -54,7 +54,7 @@ rss = true
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog Posts"
+    name = "Posts"
     weight = 100
     identifier = "posts"
     url = "/posts/"
@@ -68,11 +68,11 @@ rss = true
     weight = 160
     identifier = "tags"
     url = "/tags/"
-    [[menu.main]]
-        name = "RSS"
-        weight = 180
-        identifier = "rss"
-        url = "/index.xml"
+# [[menu.main]]
+#     name = "RSS"
+#     weight = 180
+#     identifier = "rss"
+#     url = "/index.xml"
 [[menu.main]]
     name = "About Me"
     identifier = "about"
