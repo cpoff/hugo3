@@ -1,11 +1,11 @@
 {
 	"version": 3,
 	"file": "print.css",
-	"sourceRoot": "/Users/cpoff/Documents/hugo3",
+	"sourceRoot": "/Users/cpoff/documents/hugo3",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/print.scss",
-		"themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",
-		"themes/hyde-hyde/assets/scss/hyde-hyde/_print.scss"
+		"../../documents/hugo3/themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",
+		"../../documents/hugo3/themes/hyde-hyde/assets/scss/hyde-hyde/_print.scss"
 	],
 	"sourcesContent": [
 		"@import \"hyde-hyde/variables\";\n@import 'hyde-hyde/print';\n",

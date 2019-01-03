@@ -5,6 +5,7 @@ date: 2019-01-02T21:43:54-07:00
 author: Curt Poff
 categories: ["website"]
 tags: ["Hugo", "dev", "curtpoff.com"]
+comments: true
 ---
 
 Having spent the past couple months wrestling with Jekyll - or more specifically, Ruby gem dependancy headaches - I sought a new static site generator. 
