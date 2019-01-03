@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autumn on Curt Poff</title>
+    <link>https://example.com/tags/autumn/</link>
+    <description>Recent content in Autumn on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/autumn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seasons are rolling again</title>
+      <link>https://example.com/posts/2017-11-02-seasons-are-rolling-again/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017-11-02-seasons-are-rolling-again/</guid>
+      <description>&lt;p&gt;Last winter was brutal, but the seasonal changes since then have been pretty nice. Long spring (blah), warm summer, lovely colors this fall, now returning to winter.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Deer season</title>
+      <link>https://example.com/posts/2015-11-11-deer-season/</link>
+      <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-11-deer-season/</guid>
+      <description>&lt;p&gt;This weekend is our annual pilgrimage to the family homestead in Missouri. The trip always coincides with the opening weekend of firearm deer season, in which I plan to participate.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fall is in the air</title>
+      <link>https://example.com/posts/2015-10-03-autumn-here/</link>
+      <pubDate>Sat, 03 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-10-03-autumn-here/</guid>
+      <description>&lt;p&gt;Baseball playoffs are about to begin, meaningful football games, and fall colors about hit peak season. I love this time of year.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

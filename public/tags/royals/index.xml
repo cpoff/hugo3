@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Royals on Curt Poff</title>
+    <link>https://example.com/tags/royals/</link>
+    <description>Recent content in Royals on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/royals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Royals are champions</title>
+      <link>https://example.com/posts/2015-11-03-royals-win/</link>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-03-royals-win/</guid>
+      <description>&lt;p&gt;The Portland celebration went late into the night on Sunday as the &lt;a href=&#34;http://espn.go.com/mlb/recap?gameId=351101121&#34;&gt;KC Royals won the World Series&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>I served up a massive jinx</title>
+      <link>https://example.com/posts/2015-09-24-fotball-jinx/</link>
+      <pubDate>Thu, 24 Sep 2015 16:28:45 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-09-24-fotball-jinx/</guid>
+      <description>&lt;p&gt;Two weeks ago I shot my mouth off about how every single football team in my corner happened to win. Royals, Chiefs (went on the road to thump the Texans), Mizzou (looked horrible against an inferior opponent), Arizona, Portland State (knocked off Washington State for the school&amp;rsquo;s first ever win against a Pac-12 opponent).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

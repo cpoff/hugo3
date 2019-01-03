@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nike on Curt Poff</title>
+    <link>https://example.com/tags/nike/</link>
+    <description>Recent content in Nike on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/nike/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Career move, new shoes</title>
+      <link>https://example.com/posts/2016-05-23-nike-job/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-05-23-nike-job/</guid>
+      <description>&lt;p&gt;Last week I started work at Nike. It&amp;rsquo;s a contract gig for upwards of a year, but on-site at the company HQ in Beaverton. I&amp;rsquo;m very excited.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on Curt Poff</title>
+    <link>https://example.com/categories/website/</link>
+    <description>Recent content in Website on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Jan 2019 12:47:13 -0700</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first Hugo post</title>
+      <link>https://example.com/posts/my-first-post/</link>
+      <pubDate>Wed, 02 Jan 2019 12:47:13 -0700</pubDate>
+      
+      <guid>https://example.com/posts/my-first-post/</guid>
+      <description>This is my first post using the Hugo static site generator. I&amp;rsquo;m also trying to customize the Hyde-Hyde theme.</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap homepage now operational</title>
+      <link>https://example.com/posts/2015-11-21-new-homepage/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-21-new-homepage/</guid>
+      <description>&lt;p&gt;I now have a valid (and secure) website hosted at &lt;a href=&#34;https://curtpoff.com&#34;&gt;curtpoff.com&lt;/a&gt;. You may also notice that I&amp;rsquo;ve successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Time to play with some Jekyll themes</title>
+      <link>https://example.com/posts/2015-10-03-jekyll-options/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-10-03-jekyll-options/</guid>
+      <description>&lt;p&gt;Now that I have the Jekyll basics down, I&amp;rsquo;m going to start tweaking some theme/template options. I want more stuff in the header, and more obvious linking between this blog and my GitHub profile. I&amp;rsquo;m not convinced the simple footer does enough.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

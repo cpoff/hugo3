@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wildcats on Curt Poff</title>
+    <link>https://example.com/tags/wildcats/</link>
+    <description>Recent content in Wildcats on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/wildcats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>March Madness</title>
+      <link>https://example.com/posts/2016-03-13-march-madness/</link>
+      <pubDate>Sun, 13 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-13-march-madness/</guid>
+      <description>&lt;p&gt;Ann and I are about to depart on our annual pilgrimage to Las Vegas for the opening of the NCAA Tournament. It&amp;rsquo;s a big deal for us.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>I served up a massive jinx</title>
+      <link>https://example.com/posts/2015-09-24-fotball-jinx/</link>
+      <pubDate>Thu, 24 Sep 2015 16:28:45 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-09-24-fotball-jinx/</guid>
+      <description>&lt;p&gt;Two weeks ago I shot my mouth off about how every single football team in my corner happened to win. Royals, Chiefs (went on the road to thump the Texans), Mizzou (looked horrible against an inferior opponent), Arizona, Portland State (knocked off Washington State for the school&amp;rsquo;s first ever win against a Pac-12 opponent).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

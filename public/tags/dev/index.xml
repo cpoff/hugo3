@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev on Curt Poff</title>
+    <link>https://example.com/tags/dev/</link>
+    <description>Recent content in Dev on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Jan 2019 12:47:13 -0700</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first Hugo post</title>
+      <link>https://example.com/posts/my-first-post/</link>
+      <pubDate>Wed, 02 Jan 2019 12:47:13 -0700</pubDate>
+      
+      <guid>https://example.com/posts/my-first-post/</guid>
+      <description>This is my first post using the Hugo static site generator. I&amp;rsquo;m also trying to customize the Hyde-Hyde theme.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll is now running</title>
+      <link>https://example.com/posts/2015-09-17-hello-world/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-09-17-hello-world/</guid>
+      <description>I recently installed the Jekyll blog engine on my GitHub Pages site. All good so far but the configuration is going to take some time.</description>
+    </item>
+    
+  </channel>
+</rss>

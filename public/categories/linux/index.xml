@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Curt Poff</title>
+    <link>https://example.com/categories/linux/</link>
+    <description>Recent content in Linux on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Linux installation on old iMac</title>
+      <link>https://example.com/posts/2015-11-27-linux-imac/</link>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015-11-27-linux-imac/</guid>
+      <description>&lt;p&gt;I installed Ubuntu Linux on an old iMac over the Thanksgiving holiday weekend. Actually, I did most of the work on Thanksgiving day and cleaned it all up today (Friday)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
