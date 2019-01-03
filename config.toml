@@ -58,12 +58,12 @@ paginate = 5
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "Posts: Categories"
+    name = "Categories"
     weight = 150
     identifier = "categories"
     url = "/categories/"
 [[menu.main]]
-    name = "Posts: Tags"
+    name = "Tags"
     weight = 160
     identifier = "tags"
     url = "/tags/"
