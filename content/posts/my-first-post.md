@@ -5,7 +5,6 @@ linktitle: My first Hugo post
 title: "My first Hugo post"
 categories: [ "website" ]
 tags: ["dev", "Hugo"]
-weight: 10
 draft: false
 comments: false
 ---

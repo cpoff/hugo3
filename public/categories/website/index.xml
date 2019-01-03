@@ -6,19 +6,10 @@
     <description>Recent content in Website on Curt Poff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Jan 2019 12:47:13 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 21:43:54 -0700</lastBuildDate>
     
 	<atom:link href="https://blog.curtpoff.com/categories/website/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My first Hugo post</title>
-      <link>https://blog.curtpoff.com/posts/my-first-post/</link>
-      <pubDate>Wed, 02 Jan 2019 12:47:13 -0700</pubDate>
-      
-      <guid>https://blog.curtpoff.com/posts/my-first-post/</guid>
-      <description>This is my first post using the Hugo static site generator. I&amp;rsquo;m also trying to customize the Hyde-Hyde theme.</description>
-    </item>
     
     <item>
       <title>Hugo is now driving this site</title>
@@ -29,6 +20,15 @@
       <description>&lt;p&gt;Having spent the past couple months wrestling with Jekyll - or more specifically, Ruby gem dependancy headaches - I sought a new static site generator.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My first Hugo post</title>
+      <link>https://blog.curtpoff.com/posts/my-first-post/</link>
+      <pubDate>Wed, 02 Jan 2019 12:47:13 -0700</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/my-first-post/</guid>
+      <description>This is my first post using the Hugo static site generator. I&amp;rsquo;m also trying to customize the Hyde-Hyde theme.</description>
     </item>
     
     <item>
