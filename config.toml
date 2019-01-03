@@ -10,8 +10,8 @@ googleAnalytics = "UA-315392-10"
 enableRobotsTXT = true
 
 # summarylength = 30
-
 paginate = 5
+rss = true
 
 ## Site Settings
 [params]
@@ -45,6 +45,7 @@ paginate = 5
   twitter = "cpoff"
   keybase = "cpoff"
   github = "cpoff"
+  stackoverflow = "4547718"
   linkedin = "cpoff"
   instagram = "cpoff"
   gravatar = "curt.poff@gmail.com"
