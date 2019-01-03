@@ -43,8 +43,8 @@ paginate = 5
 
 ## Social Accounts
 [params.social]
-	twitter = "cpoff"
-	keybase = "cpoff"
+  twitter = "cpoff"
+  keybase = "cpoff"
   github = "cpoff"
   linkedin = "cpoff"
   instagram = "cpoff"
