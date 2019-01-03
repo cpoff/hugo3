@@ -21,6 +21,17 @@
     </item>
     
     <item>
+      <title>Hugo is now driving this site</title>
+      <link>https://blog.curtpoff.com/posts/new-hugo-site/</link>
+      <pubDate>Wed, 02 Jan 2019 21:43:54 -0700</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/new-hugo-site/</guid>
+      <description>&lt;p&gt;Having spent the past couple months wrestling with Jekyll - or more specifically, Ruby gem dependancy headaches - I sought a new static site generator.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Jekyll is now running</title>
       <link>https://blog.curtpoff.com/posts/2015-09-17-hello-world/</link>
       <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>

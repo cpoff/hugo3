@@ -21,6 +21,17 @@
     </item>
     
     <item>
+      <title>Hugo is now driving this site</title>
+      <link>https://blog.curtpoff.com/posts/new-hugo-site/</link>
+      <pubDate>Wed, 02 Jan 2019 21:43:54 -0700</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/new-hugo-site/</guid>
+      <description>&lt;p&gt;Having spent the past couple months wrestling with Jekyll - or more specifically, Ruby gem dependancy headaches - I sought a new static site generator.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Pozole recipe</title>
       <link>https://blog.curtpoff.com/posts/2018-12-14-pozole-recipe/</link>
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
