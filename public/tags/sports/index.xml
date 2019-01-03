@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sports on Curt Poff</title>
-    <link>https://example.com/tags/sports/</link>
+    <link>https://blog.curtpoff.com/tags/sports/</link>
     <description>Recent content in Sports on Curt Poff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 13 Mar 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.curtpoff.com/tags/sports/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>March Madness</title>
-      <link>https://example.com/posts/2016-03-13-march-madness/</link>
+      <link>https://blog.curtpoff.com/posts/2016-03-13-march-madness/</link>
       <pubDate>Sun, 13 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2016-03-13-march-madness/</guid>
+      <guid>https://blog.curtpoff.com/posts/2016-03-13-march-madness/</guid>
       <description>&lt;p&gt;Ann and I are about to depart on our annual pilgrimage to Las Vegas for the opening of the NCAA Tournament. It&amp;rsquo;s a big deal for us.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

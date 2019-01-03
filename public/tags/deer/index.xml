@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deer on Curt Poff</title>
-    <link>https://example.com/tags/deer/</link>
+    <link>https://blog.curtpoff.com/tags/deer/</link>
     <description>Recent content in Deer on Curt Poff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Nov 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/deer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.curtpoff.com/tags/deer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deer season</title>
-      <link>https://example.com/posts/2015-11-11-deer-season/</link>
+      <link>https://blog.curtpoff.com/posts/2015-11-11-deer-season/</link>
       <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2015-11-11-deer-season/</guid>
+      <guid>https://blog.curtpoff.com/posts/2015-11-11-deer-season/</guid>
       <description>&lt;p&gt;This weekend is our annual pilgrimage to the family homestead in Missouri. The trip always coincides with the opening weekend of firearm deer season, in which I plan to participate.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

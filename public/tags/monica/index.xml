@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monica on Curt Poff</title>
-    <link>https://example.com/tags/monica/</link>
+    <link>https://blog.curtpoff.com/tags/monica/</link>
     <description>Recent content in Monica on Curt Poff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 28 Sep 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/monica/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.curtpoff.com/tags/monica/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ciao bella</title>
-      <link>https://example.com/posts/2015-09-28-ciao-bella/</link>
+      <link>https://blog.curtpoff.com/posts/2015-09-28-ciao-bella/</link>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2015-09-28-ciao-bella/</guid>
+      <guid>https://blog.curtpoff.com/posts/2015-09-28-ciao-bella/</guid>
       <description>&lt;p&gt;Our friend Monica visited us this weekend. She and her husband Giovanni (both Italians) are friends of ours from the Bay Area. They were in Ann&amp;rsquo;s cycle class at the gym and we got to know each other over the years.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

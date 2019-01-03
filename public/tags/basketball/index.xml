@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Basketball on Curt Poff</title>
-    <link>https://example.com/tags/basketball/</link>
+    <link>https://blog.curtpoff.com/tags/basketball/</link>
     <description>Recent content in Basketball on Curt Poff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 13 Mar 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/basketball/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.curtpoff.com/tags/basketball/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>March Madness</title>
-      <link>https://example.com/posts/2016-03-13-march-madness/</link>
+      <link>https://blog.curtpoff.com/posts/2016-03-13-march-madness/</link>
       <pubDate>Sun, 13 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2016-03-13-march-madness/</guid>
+      <guid>https://blog.curtpoff.com/posts/2016-03-13-march-madness/</guid>
       <description>&lt;p&gt;Ann and I are about to depart on our annual pilgrimage to Las Vegas for the opening of the NCAA Tournament. It&amp;rsquo;s a big deal for us.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Portland&#39;s home sports teams</title>
-      <link>https://example.com/posts/2016-2-11-tv-market/</link>
+      <link>https://blog.curtpoff.com/posts/2016-2-11-tv-market/</link>
       <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2016-2-11-tv-market/</guid>
+      <guid>https://blog.curtpoff.com/posts/2016-2-11-tv-market/</guid>
       <description>&lt;p&gt;One of the things you have to deal with when you relocate is changes to your regional sports affiliation. Yeah, Portland has the Timbers and Blazers. But what else is in our TV market?&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

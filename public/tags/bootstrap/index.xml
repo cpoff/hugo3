@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bootstrap on Curt Poff</title>
-    <link>https://example.com/tags/bootstrap/</link>
+    <link>https://blog.curtpoff.com/tags/bootstrap/</link>
     <description>Recent content in Bootstrap on Curt Poff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 21 Nov 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.curtpoff.com/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bootstrap homepage now operational</title>
-      <link>https://example.com/posts/2015-11-21-new-homepage/</link>
+      <link>https://blog.curtpoff.com/posts/2015-11-21-new-homepage/</link>
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/2015-11-21-new-homepage/</guid>
+      <guid>https://blog.curtpoff.com/posts/2015-11-21-new-homepage/</guid>
       <description>&lt;p&gt;I now have a valid (and secure) website hosted at &lt;a href=&#34;https://curtpoff.com&#34;&gt;curtpoff.com&lt;/a&gt;. You may also notice that I&amp;rsquo;ve successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
