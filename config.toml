@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://jolly-fermat-112d62.netlify.com"
 languageCode = "en"
 
 title = "Curt Poff"
@@ -59,12 +59,12 @@ paginate = 5
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "Categories"
+    name = "Posts: Categories"
     weight = 150
     identifier = "categories"
     url = "/categories/"
 [[menu.main]]
-    name = "Tags"
+    name = "Posts: Tags"
     weight = 160
     identifier = "tags"
     url = "/tags/"
