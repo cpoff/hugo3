@@ -5,7 +5,7 @@ title = "Curt Poff"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
-disqusShortname = "cpoff"
+# disqusShortname = "cpoff"
 googleAnalytics = "UA-315392-10"
 enableRobotsTXT = true
 
