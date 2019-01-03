@@ -302,14 +302,14 @@
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/categories/christmas/</loc>
-    <lastmod>2015-12-26T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/tags/christmas/</loc>
+    <lastmod>2015-12-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/tags/christmas/</loc>
-    <lastmod>2015-12-17T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/categories/christmas/</loc>
+    <lastmod>2015-12-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -320,14 +320,14 @@
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/categories/cooking/</loc>
-    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/tags/cooking/</loc>
+    <lastmod>2015-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/tags/cooking/</loc>
-    <lastmod>2015-05-27T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/categories/cooking/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -374,14 +374,14 @@
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/categories/food/</loc>
-    <lastmod>2015-05-27T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/tags/food/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/tags/food/</loc>
-    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/categories/food/</loc>
+    <lastmod>2015-05-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -434,26 +434,26 @@
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/categories/jekyll/</loc>
-    <lastmod>2015-12-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.curtpoff.com/tags/jekyll/</loc>
     <lastmod>2015-10-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/categories/job/</loc>
-    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/categories/jekyll/</loc>
+    <lastmod>2015-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.curtpoff.com/tags/job/</loc>
     <lastmod>2015-10-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.curtpoff.com/categories/job/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -512,14 +512,14 @@
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/categories/oregon/</loc>
-    <lastmod>2016-01-04T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/tags/oregon/</loc>
+    <lastmod>2016-03-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/tags/oregon/</loc>
-    <lastmod>2016-03-31T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/categories/oregon/</loc>
+    <lastmod>2016-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -548,26 +548,26 @@
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/categories/politics/</loc>
-    <lastmod>2016-01-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.curtpoff.com/tags/politics/</loc>
     <lastmod>2016-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/categories/portland/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/categories/politics/</loc>
+    <lastmod>2016-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.curtpoff.com/tags/portland/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.curtpoff.com/categories/portland/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -620,14 +620,14 @@
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/categories/social/</loc>
-    <lastmod>2016-01-27T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/tags/social/</loc>
+    <lastmod>2015-12-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/tags/social/</loc>
-    <lastmod>2015-12-17T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/categories/social/</loc>
+    <lastmod>2016-01-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -638,14 +638,14 @@
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/categories/sports/</loc>
-    <lastmod>2016-02-11T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/tags/sports/</loc>
+    <lastmod>2016-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/tags/sports/</loc>
-    <lastmod>2016-03-13T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/categories/sports/</loc>
+    <lastmod>2016-02-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -710,14 +710,14 @@
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/categories/weather/</loc>
-    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/tags/weather/</loc>
+    <lastmod>2015-12-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.curtpoff.com/tags/weather/</loc>
-    <lastmod>2015-12-26T00:00:00+00:00</lastmod>
+    <loc>https://blog.curtpoff.com/categories/weather/</loc>
+    <lastmod>2017-11-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

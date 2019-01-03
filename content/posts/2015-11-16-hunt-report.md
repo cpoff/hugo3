@@ -9,7 +9,7 @@ tags: ["Albany", "Missouri", "family", "venison"]
 comments: false
 ---
 
-As I [mentioned earlier](/deer-season), this weekend was the opening of firearm deer season in my hometown. It's a special event for me. It's a family affair that reinforces our hunting tradition.
+As I [mentioned earlier](/posts/2015-11-11-deer-season/), this weekend was the opening of firearm deer season in my hometown. It's a special event for me. It's a family affair that reinforces our hunting tradition.
 
 <!--more-->
 
@@ -17,7 +17,7 @@ First, I've participated in opening day hunts in Missouri for the past 15 years 
 
 I can easily label the trip a family event because [my lovely wife](http://gofitgirl.com) always goes with me. She doesn't hunt but she does enjoy lounging around my parents house in her pajamas, curling up with a book and a cup of tea. Just her thing, especially when it's cold outside. This year was special because she also taught a yoga workshop. Nine attendees paid good money to learn from the master. Very proud of her.
 
-For the past few years my brother, Craig, has joined the hunt along with his oldest son, James. His youngest, Jackson, comes along on the trip but doesn't participate in the hunt. 
+For the past few years my brother, Craig, has joined the hunt along with his oldest son, James. His youngest, Jackson, comes along on the trip but doesn't participate in the hunt.
 
 Craig, James, and I went out both mornings very early. Left the house around 5:30 a.m. A short drive takes us to the farm where we park, load our guns, and walk to our respective deer stands. Arriving and seated in time for first light.
 
