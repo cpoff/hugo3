@@ -6,7 +6,7 @@ theme = "hyde-hyde"
 
 ## Hugo Built-in Features
 # disqusShortname = "cpoff"
-googleAnalytics = "UA-315392-8"
+googleAnalytics = "UA-315392-10"
 enableRobotsTXT = true
 
 # summarylength = 30
