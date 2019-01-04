@@ -17,7 +17,7 @@
       <pubDate>Wed, 02 Jan 2019 21:43:54 -0700</pubDate>
       
       <guid>https://blog.curtpoff.com/posts/new-hugo-site/</guid>
-      <description>&lt;p&gt;Having spent the past couple months wrestling with Jekyll - or more specifically, Ruby gem dependancy headaches - I sought a new static site generator.&lt;/p&gt;
+      <description>&lt;p&gt;Having spent the past couple months wrestling with Jekyll and Ruby gems - or more specifically: gem dependancies - I sought a new static site generator.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -29,6 +29,39 @@
       
       <guid>https://blog.curtpoff.com/posts/my-first-post/</guid>
       <description>This is my first post using the Hugo static site generator. I&amp;rsquo;m also trying to customize the Hyde-Hyde theme.</description>
+    </item>
+    
+    <item>
+      <title>New theme for the Jekyll blog</title>
+      <link>https://blog.curtpoff.com/posts/2015-12-04-new-blog-theme/</link>
+      <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/2015-12-04-new-blog-theme/</guid>
+      <description>&lt;p&gt;Yesterday I re-installed an advanced version of my Jekyll blog that included a new theme. Hope you find it suitable.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New Linux installation on old iMac</title>
+      <link>https://blog.curtpoff.com/posts/2015-11-27-linux-imac/</link>
+      <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/2015-11-27-linux-imac/</guid>
+      <description>&lt;p&gt;I installed Ubuntu Linux on an old iMac over the Thanksgiving holiday weekend. Actually, I did most of the work on Thanksgiving day and cleaned it all up today (Friday)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Time to play with some Jekyll themes</title>
+      <link>https://blog.curtpoff.com/posts/2015-10-03-jekyll-options/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/2015-10-03-jekyll-options/</guid>
+      <description>&lt;p&gt;Now that I have the Jekyll basics down, I&amp;rsquo;m going to start tweaking some theme/template options. I want more stuff in the header, and more obvious linking between this blog and my GitHub profile. I&amp;rsquo;m not convinced the simple footer does enough.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
