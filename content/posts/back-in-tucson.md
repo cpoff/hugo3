@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Back in Tucson"
+description: "Most of you probably know already, but The Wife and I moved back to Tucson a few months ago."
 date: 2019-01-04T10:54:39-07:00
 author: Curt Poff
 categories: ["Tucson"]

@@ -42,6 +42,9 @@ rss = true
     # Table of contents
     #toc = none, "hugo", or "tocbot"
 
+[permalinks]
+  post = "/:title/"
+
 ## Social Accounts
 [params.social]
   twitter = "cpoff"

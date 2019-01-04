@@ -33,10 +33,10 @@
     
     <item>
       <title>New theme for the Jekyll blog</title>
-      <link>https://blog.curtpoff.com/posts/2015-12-04-new-blog-theme/</link>
+      <link>https://blog.curtpoff.com/posts/new-blog-theme/</link>
       <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.curtpoff.com/posts/2015-12-04-new-blog-theme/</guid>
+      <guid>https://blog.curtpoff.com/posts/new-blog-theme/</guid>
       <description>&lt;p&gt;Yesterday I re-installed an advanced version of my Jekyll blog that included a new theme. Hope you find it suitable.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -44,10 +44,10 @@
     
     <item>
       <title>New Linux installation on old iMac</title>
-      <link>https://blog.curtpoff.com/posts/2015-11-27-linux-imac/</link>
+      <link>https://blog.curtpoff.com/posts/linux-imac/</link>
       <pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.curtpoff.com/posts/2015-11-27-linux-imac/</guid>
+      <guid>https://blog.curtpoff.com/posts/linux-imac/</guid>
       <description>&lt;p&gt;I installed Ubuntu Linux on an old iMac over the Thanksgiving holiday weekend. Actually, I did most of the work on Thanksgiving day and cleaned it all up today (Friday)&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -55,10 +55,10 @@
     
     <item>
       <title>Time to play with some Jekyll themes</title>
-      <link>https://blog.curtpoff.com/posts/2015-10-03-jekyll-options/</link>
+      <link>https://blog.curtpoff.com/posts/jekyll-options/</link>
       <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.curtpoff.com/posts/2015-10-03-jekyll-options/</guid>
+      <guid>https://blog.curtpoff.com/posts/jekyll-options/</guid>
       <description>&lt;p&gt;Now that I have the Jekyll basics down, I&amp;rsquo;m going to start tweaking some theme/template options. I want more stuff in the header, and more obvious linking between this blog and my GitHub profile. I&amp;rsquo;m not convinced the simple footer does enough.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -66,10 +66,10 @@
     
     <item>
       <title>Jekyll is now running</title>
-      <link>https://blog.curtpoff.com/posts/2015-09-17-hello-world/</link>
+      <link>https://blog.curtpoff.com/posts/hello-world/</link>
       <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.curtpoff.com/posts/2015-09-17-hello-world/</guid>
+      <guid>https://blog.curtpoff.com/posts/hello-world/</guid>
       <description>I recently installed the Jekyll blog engine on my GitHub Pages site. All good so far but the configuration is going to take some time.</description>
     </item>
     

@@ -24,10 +24,10 @@
     
     <item>
       <title>New theme for the Jekyll blog</title>
-      <link>https://blog.curtpoff.com/posts/2015-12-04-new-blog-theme/</link>
+      <link>https://blog.curtpoff.com/posts/new-blog-theme/</link>
       <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.curtpoff.com/posts/2015-12-04-new-blog-theme/</guid>
+      <guid>https://blog.curtpoff.com/posts/new-blog-theme/</guid>
       <description>&lt;p&gt;Yesterday I re-installed an advanced version of my Jekyll blog that included a new theme. Hope you find it suitable.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -35,10 +35,10 @@
     
     <item>
       <title>Bootstrap homepage now operational</title>
-      <link>https://blog.curtpoff.com/posts/2015-11-21-new-homepage/</link>
+      <link>https://blog.curtpoff.com/posts/new-homepage/</link>
       <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.curtpoff.com/posts/2015-11-21-new-homepage/</guid>
+      <guid>https://blog.curtpoff.com/posts/new-homepage/</guid>
       <description>&lt;p&gt;I now have a valid (and secure) website hosted at &lt;a href=&#34;https://curtpoff.com&#34;&gt;curtpoff.com&lt;/a&gt;. You may also notice that I&amp;rsquo;ve successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
