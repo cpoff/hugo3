@@ -11,7 +11,7 @@ googleAnalytics = "UA-315392-10"
 enableRobotsTXT = true
 
 # summarylength = 30
-paginate = 5
+paginate = 6
 rss = true
 
 ## Site Settings
