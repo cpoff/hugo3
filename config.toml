@@ -31,7 +31,7 @@ rss = true
     # https://highlightjs.org
     highlightjs = true
     highlightjsstyle = "github"
-    themeColor = "theme-base-0f"
+    # themeColor = "theme-base-08"
 
     # please choose either GraphComment or Disqus or Utterances
     #GraphCommentId = "..."
