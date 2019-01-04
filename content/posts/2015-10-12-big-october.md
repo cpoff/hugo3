@@ -4,9 +4,8 @@ title:  "Big October"
 description:  "October is typically a busy month in our household."
 author: Curt Poff
 date:   2015-10-12
-categories: ["social"]
+categories: ["social", "Portland"]
 tags: ["Ken", "Martin"]
-comments: false
 ---
 
 October is typically a busy month in our household. Ann's birthday, our anniversary, plus almost every other anniversary on the planet. Another big birthday this year belongs to one of my best friends: Ken Conforti. Ken and I were roommates back in the late '90s. He turns the big 5-0 next week.

@@ -6,7 +6,6 @@ author: Curt Poff
 date:   2015-11-16
 categories: ["hunting"]
 tags: ["Albany", "Missouri", "family", "venison"]
-comments: false
 ---
 
 As I [mentioned earlier](/posts/2015-11-11-deer-season/), this weekend was the opening of firearm deer season in my hometown. It's a special event for me. It's a family affair that reinforces our hunting tradition.

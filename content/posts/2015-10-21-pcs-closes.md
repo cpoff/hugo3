@@ -6,7 +6,6 @@ author: Curt Poff
 date:   2015-10-21
 categories: ["PCS"]
 tags: ["code", "job"]
-comments: false
 ---
 
 On Saturday night I got word via Slack channel that the locks at [Portland Code School](http://www.portlandcodeschool.com) have been changed and everyone's on their own.

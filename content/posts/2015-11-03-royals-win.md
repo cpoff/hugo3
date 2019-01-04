@@ -5,7 +5,6 @@ author: Curt Poff
 date:   2015-11-03
 categories: ["sports"]
 tags: ["baseball", "Royals"]
-comments: false
 ---
 The Portland celebration went late into the night on Sunday as the [KC Royals won the World Series](http://espn.go.com/mlb/recap?gameId=351101121).
 

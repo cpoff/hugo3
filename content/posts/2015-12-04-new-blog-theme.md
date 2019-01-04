@@ -5,8 +5,7 @@ description:  "Yesterday I re-installed an advanced version of my Jekyll blog th
 author: Curt Poff
 date:   2015-12-04
 categories: ["jekyll"]
-tags: ["theme", "blog", "curtpoff.com"]
-comments: false
+tags: ["dev", "theme", "blog", "curtpoff.com"]
 ---
 
 Yesterday I re-installed an advanced version of my Jekyll blog that included a new theme. Hope you find it suitable.

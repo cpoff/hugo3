@@ -6,7 +6,6 @@ author: Curt Poff
 date:   2015-12-07
 categories: ["sports"]
 tags: ["Portland", "soccer", "baseball", "football"]
-comments: false
 ---
 
 I'm very excited to have been along for TWO championships this year. Lucky me.

@@ -5,8 +5,6 @@ linktitle: My first Hugo post
 title: "My first Hugo post"
 categories: [ "website" ]
 tags: ["dev", "Hugo"]
-draft: false
-comments: false
 ---
 
 This is my first post using the Hugo static site generator. I'm also trying to customize the [Hyde-Hyde theme](https://themes.gohugo.io/theme/hyde-hyde/).

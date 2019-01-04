@@ -5,7 +5,6 @@ author: Curt Poff
 date:   2015-05-27
 categories: ["food"]
 tags: ["cooking"]
-comments: false
 ---
 
 Over the years, my wife and I got into the habit of eating most meals separately. The idea evolved from Ann’s dietary needs. She eats pretty healthy. I usually piece together what I can. 

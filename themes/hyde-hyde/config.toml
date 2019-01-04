@@ -1,0 +1,81 @@
+## Basic Configuration
+baseurl = "https://blog.curtpoff.com/"
+languageCode = "en"
+title = "Curt Poff"
+description = "Curt Poff is a veteran techie now living in Tucson AZ. Past homes include Portland and the Bay Area, where he worked for Macwolrd, Walmart.com, and Nike."
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "cpoff"
+googleAnalytics = "UA-315392-10"
+enableRobotsTXT = true
+
+# summarylength = 30
+paginate = 5
+rss = true
+
+## Site Settings
+[params]
+    author = "Curt Poff"
+    title = "Curt Poff"
+    description = "Web guy, beer drinker, sports fan"
+    # authorimage = "/img/hugo.png"
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    copyright = "Curt Poff"
+    license = "CC by-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+  twitter = "cpoff"
+  keybase = "cpoff"
+  github = "cpoff"
+#   stackoverflow = "4547718"
+  linkedin = "cpoff"
+  instagram = "cpoff"
+  gravatar = "curt.poff@gmail.com"
+  telegram = "cpoff"
+  email = "curt@cpoff.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Categories"
+    weight = 150
+    identifier = "categories"
+    url = "/categories/"
+[[menu.main]]
+    name = "Tags"
+    weight = 160
+    identifier = "tags"
+    url = "/tags/"
+# [[menu.main]]
+#     name = "RSS"
+#     weight = 180
+#     identifier = "rss"
+#     url = "/index.xml"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 300
+    url = "/about/"

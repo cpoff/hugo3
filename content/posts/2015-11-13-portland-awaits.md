@@ -6,7 +6,6 @@ author: Curt Poff
 date:   2015-11-13
 categories: ["Portland"]
 tags: ["social", "Oregon", "Portlandia"]
-comments: false
 ---
 
 Our good friend Eric Blumenau came to town for work this week with his girlfriend, Danielle Reichner. We had a great time showing them around town.

@@ -5,7 +5,6 @@ author: Curt Poff
 date:   2015-10-03
 categories: ["weather"]
 tags: ["autumn"]
-comments: false
 ---
 
 Baseball playoffs are about to begin, meaningful football games, and fall colors about hit peak season. I love this time of year.

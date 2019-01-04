@@ -6,6 +6,5 @@ author: Curt Poff
 date: 2015-09-17
 categories: ["jekyll"]
 tags: ["dev"]
-comments: false
 ---
 I recently installed the Jekyll blog engine on my GitHub Pages site. All good so far but the configuration is going to take some time. 

@@ -5,8 +5,7 @@ description:  "I installed Ubuntu Linux on an old iMac over the Thanksgiving hol
 author: Curt Poff
 date:   2015-11-27
 categories: ["linux"]
-tags: ["imac", "plex", "xbmc"]
-comments: false
+tags: ["dev", "imac", "plex", "xbmc"]
 
 ---
 I installed Ubuntu Linux on an old iMac over the Thanksgiving holiday weekend. Actually, I did most of the work on Thanksgiving day and cleaned it all up today (Friday)

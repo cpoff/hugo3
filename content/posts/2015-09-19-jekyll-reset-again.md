@@ -5,7 +5,6 @@ author: Curt Poff
 date:   2015-09-19
 categories : ["jekyll"]
 tags: ["github"]
-comments: false
 ---
 
 I feel like I finally have a grip on Jekyll as it runs in GitHub Pages. It took several attempts to install the Jekyll engine (parser) inside the existing directory and setup, but it seems to be working. I had to delete the Pages directory a couple times and it looks like I lost some update counts. But whatevs.

@@ -6,7 +6,6 @@ author: Curt Poff
 date:   2015-09-24 16:28:45
 categories: ["sports"]
 tags: ["Chiefs", "PSU Vikings", "Royals", "Wildcats", "Tigers", "Mizzou"]
-comments: false
 ---
 
 Two weeks ago I shot my mouth off about how every single football team in my corner happened to win. Royals, Chiefs (went on the road to thump the Texans), Mizzou (looked horrible against an inferior opponent), Arizona, Portland State (knocked off Washington State for the school's first ever win against a Pac-12 opponent).

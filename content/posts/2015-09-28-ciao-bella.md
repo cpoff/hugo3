@@ -5,7 +5,6 @@ author: Curt Poff
 date:   2015-09-28
 category: ["social"]
 tags: ["Monica"]
-comments: false
 ---
 Our friend Monica visited us this weekend. She and her husband Giovanni (both Italians) are friends of ours from the Bay Area. They were in Ann's cycle class at the gym and we got to know each other over the years. 
 

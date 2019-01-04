@@ -6,7 +6,6 @@ author: Curt Poff
 date:   2015-12-26
 categories: ["Christmas"]
 tags: ["weather", "football"]
-comments: false
 ---
 
 [Cheesemas](/cheesemas/) went off without a hitch and everyone had a wonderful time. Now it's time to sit back and enjoy some holiday laziness. Football, binge-watching TV shows, homemade posole. It's all in the cards.

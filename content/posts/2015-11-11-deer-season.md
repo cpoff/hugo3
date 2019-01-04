@@ -6,7 +6,6 @@ author: Curt Poff
 date:   2015-11-11
 categories: ["hunting"]
 tags: ["autumn", "deer", "Missouri"]
-comments: false
 ---
 
 This weekend is our annual pilgrimage to the family homestead in Missouri. The trip always coincides with the opening weekend of firearm deer season, in which I plan to participate.

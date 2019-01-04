@@ -5,7 +5,6 @@ author: Curt Poff
 date:   2015-09-22
 categories: ["jekyll"]
 tags: ["blog"]
-comments: false
 ---
 
 Let me elaborate on something I mentioned earlier:

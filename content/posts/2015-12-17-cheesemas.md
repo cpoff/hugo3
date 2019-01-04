@@ -6,7 +6,6 @@ author: Curt Poff
 date:   2015-12-17
 categories: ["cheesemas"]
 tags: ["Christmas", "cheese", "booze", "social"]
-comments: false
 ---
 
 This Saturday we'll host our annual holiday party, also known as Cheesemas. How that party got to this point is a long story.
