@@ -2,7 +2,6 @@
 baseurl = "https://blog.curtpoff.com/"
 languageCode = "en"
 title = "Curt Poff"
-description = "Curt Poff is a veteran techie now living in Tucson AZ. Past homes include Portland and the Bay Area, where he worked for Macwolrd, Walmart.com, and Nike."
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -18,6 +17,7 @@ rss = true
 [params]
     author = "Curt Poff"
     title = "Curt Poff"
+    siteDescription = "Curt Poff is a veteran techie now living in Tucson AZ. Past homes include Portland and the Bay Area, where he worked for Macwolrd, Walmart.com, and Nike."
     description = "Web guy, beer drinker, sports fan"
     # authorimage = "/img/hugo.png"
     dateformat = "Jan 2, 2006"
@@ -41,9 +41,6 @@ rss = true
 
     # Table of contents
     #toc = none, "hugo", or "tocbot"
-
-[permalinks]
-  post = "/:title/"
 
 ## Social Accounts
 [params.social]

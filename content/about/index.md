@@ -2,6 +2,7 @@
 layout: page
 permalink: /about/
 title: About Me
+description: "Curt Poff is a veteran techie now living in Tucson AZ. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
 categories: ["about"]
 tags: ["Curt Poff"]
 ---
