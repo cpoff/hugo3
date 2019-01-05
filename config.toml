@@ -17,7 +17,7 @@ rss = true
 [params]
     author = "Curt Poff"
     title = "Curt Poff"
-    siteDescription = "Curt Poff is a veteran techie now living in Tucson AZ. Past homes include Portland and the Bay Area, where he worked for Macwolrd, Walmart.com, and Nike."
+    siteDescription = "Curt Poff is a veteran techie now living in Tucson AZ. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
     description = "Web guy, beer drinker, sports fan"
     # authorimage = "/img/hugo.png"
     dateformat = "Jan 2, 2006"
