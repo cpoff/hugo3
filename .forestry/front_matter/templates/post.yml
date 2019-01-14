@@ -9,11 +9,23 @@ fields:
   config:
     required: true
   default: post
+  description: layout = post
 - type: textarea
   name: body
   label: body
-  description: Body of entry
+  description: Body of post
   config:
     required: true
+    wysiwyg: true
+    schema:
+      format: markdown
+  default: |-
+    Intro paragraph.
+
+    \[LINK TEXT\]([http://www.google.com](http://www.google.com "http://www.google.com"))
+
+    <!--more-->
+
+    Body text goes here.
 pages:
 - content/posts/chiefs-advance.md
