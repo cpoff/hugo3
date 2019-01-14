@@ -9,5 +9,11 @@ fields:
   config:
     required: true
   default: post
+- type: textarea
+  name: body
+  label: body
+  description: Body of entry
+  config:
+    required: true
 pages:
 - content/posts/chiefs-advance.md
