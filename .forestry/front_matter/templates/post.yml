@@ -38,3 +38,6 @@ fields:
   type: tag_list
   hidden: false
   default: ''
+- type: file
+  name: thumbnail
+  label: thumbnail
