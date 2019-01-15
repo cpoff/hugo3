@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "This is a template"
+title:  "Hed goes here"
 description:  "Meta description goes here"
 author: Curt Poff
-date:   
-categories: []
-tags: []
+date:   2019-01-02T12:47:13-07:00
+categories: ["general"]
+tags: ["",""]
 draft: true
 ---
 
