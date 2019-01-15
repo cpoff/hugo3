@@ -38,5 +38,3 @@ fields:
   type: datetime
   hidden: false
   default: ''
-pages:
-- content/posts/new-old-template.md
