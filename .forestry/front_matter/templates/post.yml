@@ -45,3 +45,5 @@ fields:
 - type: file
   name: thumbnail
   label: thumbnail
+pages:
+- content/posts/forestry-io-now-behind-the-scenes.md

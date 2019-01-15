@@ -3,6 +3,7 @@ author = "Curt Poff"
 categories = ["dev"]
 date = "2019-01-14T19:53:00-07:00"
 description = "I installed the Forestry.io CMS, which does a great job on static sites like Hugo, Jekyll, etc."
+draft = true
 layout = "post"
 tags = ["curtpoff.com"]
 thumbnail = ""
