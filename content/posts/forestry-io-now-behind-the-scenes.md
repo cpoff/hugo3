@@ -2,7 +2,7 @@
 author = "Curt Poff"
 categories = ["dev"]
 date = "2019-01-14T19:53:00-07:00"
-description = "As mentioned earlier, I'm now running a Hugo static site generator. It's going great so far so I decided to install a CMS as phase 2."
+description = "As mentioned earlier, I'm now running a Hugo static site generator. It's going great so far so I decided to install Forestry.io's CMS as phase 2."
 layout = "post"
 tags = ["curtpoff.com", "forestry.io", "hugo"]
 thumbnail = "/uploads/Screenshot 2019-01-14 20.38.10.png"
