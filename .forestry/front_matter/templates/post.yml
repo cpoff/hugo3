@@ -41,3 +41,5 @@ fields:
 - type: file
   name: thumbnail
   label: thumbnail
+pages:
+- content/posts/YYYY-MM-DD-post-title.md

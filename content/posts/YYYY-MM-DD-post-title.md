@@ -9,9 +9,9 @@ tags: []
 draft: true
 
 ---
-Intro paragraph. 
+Intro paragraph.
 [LINK TEXT](http://www.google.com)
 
 <!--more-->
 
-Body text goes here.
+Body **text** goes here.
