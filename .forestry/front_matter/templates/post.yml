@@ -38,10 +38,6 @@ fields:
   type: tag_list
   hidden: false
   default: ''
-- type: text
-  name: draft
-  label: draft
-  default: 'true'
 - type: file
   name: thumbnail
   label: thumbnail
