@@ -15,6 +15,9 @@ fields:
   config:
     required: true
 - type: text
+  name: description
+  label: description
+- type: text
   name: author
   label: author
   default: Curt Poff
@@ -30,9 +33,6 @@ fields:
 - type: tag_list
   name: tags
   label: tags
-- type: file
-  name: thumbnail
-  label: thumbnail
 - type: textarea
   name: body
   label: body
