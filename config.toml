@@ -8,14 +8,18 @@ rss = true
 theme = "hyde-hyde"
 title = "Curt Poff"
 [[menu.main]]
-name = "My homepage"
-url = "https://curtpoff.com"
+name = "Tags"
+url = "/tags/"
+weight = 3
+[[menu.main]]
+name = "Categories"
+url = "/categories/"
 weight = 2
 [[menu.main]]
 identifier = "about"
 name = "About me"
 url = "/about/"
-weight = 3
+weight = 4
 [[menu.main]]
 identifier = "posts"
 name = "All posts"
