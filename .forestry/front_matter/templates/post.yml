@@ -7,12 +7,12 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: post
 - name: author
   label: Author
   type: text
   hidden: false
-  default: ''
+  default: Curt Poff
 - name: title
   label: Title
   type: text
