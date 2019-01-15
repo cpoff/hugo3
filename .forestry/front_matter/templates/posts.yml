@@ -33,5 +33,3 @@ fields:
 - type: tag_list
   name: tags
   label: tags
-pages:
-- content/posts/new-template-test.md
