@@ -8,6 +8,10 @@ fields:
   name: title
   config:
     required: true
+- type: text
+  name: author
+  label: author
+  default: Curt Poff
 - type: datetime
   name: date
   label: date
