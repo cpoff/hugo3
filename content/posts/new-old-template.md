@@ -8,10 +8,10 @@ tags = ["curtpoff.com"]
 title = "New/old template"
 
 +++
-Intro paragraph. 
+Intro paragraph.
 
 \[LINK TEXT\]([http://www.google.com](http://www.google.com "http://www.google.com"))
 
 <!--more-->
 
-Body text goes here.
+And here's that body text.
