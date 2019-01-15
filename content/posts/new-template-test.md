@@ -4,7 +4,6 @@ body = "Intro paragraph. \n[LINK TEXT](http://www.google.com)\n\n<!--more-->\n\n
 categories = ["dev"]
 date = "2019-01-14T00:00:00-07:00"
 description = "This is a test description."
-draft = true
 layout = "post"
 tags = ["curtpoff.com"]
 thumbnail = ""
