@@ -12,12 +12,12 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: TITLE
 - name: description
   label: Description
   type: textarea
   hidden: false
-  default: ''
+  default: DESCRIPTION
 - name: author
   label: Author
   type: text
