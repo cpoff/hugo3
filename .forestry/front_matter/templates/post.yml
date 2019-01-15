@@ -1,10 +1,15 @@
 ---
 label: Post
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: author
+  label: Author
   type: text
   hidden: false
   default: ''
@@ -18,6 +23,11 @@ fields:
   type: textarea
   hidden: false
   default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
 - name: categories
   label: Categories
   type: tag_list
@@ -26,15 +36,5 @@ fields:
 - name: tags
   label: Tags
   type: tag_list
-  hidden: false
-  default: ''
-- name: author
-  label: Author
-  type: text
-  hidden: false
-  default: ''
-- name: date
-  label: Date
-  type: datetime
   hidden: false
   default: ''
