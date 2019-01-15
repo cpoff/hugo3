@@ -5,7 +5,7 @@ date = "2019-01-14T19:32:00-07:00"
 description = "Here is a lengthy description to satisfy that Google bot."
 layout = "post"
 tags = ["curtpoff.com"]
-title = "New/old template"
+title = "New-old template"
 
 +++
 Intro paragraph.
