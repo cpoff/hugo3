@@ -1,28 +1,28 @@
 ---
 label: Static Page
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: page
 - name: permalink
   label: Permalink
   type: text
   hidden: false
-  default: ''
+  default: "/PAGE_NAME/"
 - name: title
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: TITLE
 - name: description
   label: Description
   type: textarea
   hidden: false
-  default: ''
+  default: DESCRIPTION
 - name: categories
   label: Categories
   type: tag_list
@@ -33,3 +33,6 @@ fields:
   type: tag_list
   hidden: false
   default: ''
+- type: file
+  name: thumbnail
+  label: thumbnail
