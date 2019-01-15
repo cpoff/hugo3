@@ -42,3 +42,6 @@ fields:
   name: draft
   label: draft
   default: 'true'
+- type: file
+  name: thumbnail
+  label: thumbnail
