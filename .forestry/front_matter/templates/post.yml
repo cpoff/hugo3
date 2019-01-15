@@ -42,5 +42,6 @@ fields:
   name: thumbnail
   label: thumbnail
 pages:
+- content/posts/anns-birthday.md
 - content/posts/YYYY-MM-DD-post-title.md
 - content/posts/forestry-io-now-behind-the-scenes.md
