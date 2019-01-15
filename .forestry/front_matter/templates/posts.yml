@@ -40,5 +40,3 @@ fields:
   config:
     required: true
   default: Here's where you body text goes.
-pages:
-- content/posts/new-template-test.md
