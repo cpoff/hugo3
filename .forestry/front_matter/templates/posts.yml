@@ -23,5 +23,10 @@ fields:
 - type: file
   name: thumbnail
   label: thumbnail
+- type: textarea
+  name: body
+  label: body
+  config:
+    required: true
 pages:
 - content/posts/new-template-test.md
