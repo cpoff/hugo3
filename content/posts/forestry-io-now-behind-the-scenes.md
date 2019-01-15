@@ -10,7 +10,7 @@ thumbnail = ""
 title = "Forestry.io now behind the scenes"
 
 +++
-As [mentioned](/posts/new-hugo-site/ "Hugo now running this site"), I'm now running a Hugo static site generator. It's going great so far so I decided to install a CMS as phase 2.
+As [mentioned earlier](/posts/new-hugo-site/ "Hugo now running this site"), I'm now running a Hugo static site generator. It's going great so far so I decided to install a CMS as phase 2.
 
 <!--more-->
 
