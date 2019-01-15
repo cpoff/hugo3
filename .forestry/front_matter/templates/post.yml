@@ -22,7 +22,7 @@ fields:
   label: Author
   type: text
   hidden: false
-  default: ''
+  default: Curt Poff
 - name: date
   label: Date
   type: datetime
