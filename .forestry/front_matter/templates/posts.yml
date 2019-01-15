@@ -14,9 +14,10 @@ fields:
   name: title
   config:
     required: true
-- type: text
+- type: textarea
   name: description
   label: description
+  description: SEO description.
 - type: text
   name: author
   label: author
