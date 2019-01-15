@@ -33,10 +33,5 @@ fields:
 - type: tag_list
   name: tags
   label: tags
-- type: textarea
-  name: body
-  label: body
-  config:
-    required: true
 pages:
 - content/posts/new-template-test.md
