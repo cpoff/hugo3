@@ -25,14 +25,18 @@ front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
 build:
+  # preview
   preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
-  publish_command: hugo -d public
+  preview_output_directory: public
   preview_env:
   - HUGO_ENV=staging
-  - HUGO_VERSION=0.49
-  publish_env:
-  - HUGO_ENV=production
-  - HUGO_VERSION=0.49
-  preview_output_directory: public
+  - HUGO_VERSION=#{self.site_settings.engine_version}
+
+  # publish
+  publish_command: hugo -d public
   output_directory: public
+  publish_env: 
+  - HUGO_ENV=production
+  - HUGO_VERSION=#{self.site_settings.engine_version}
+
 version: '0.49'
