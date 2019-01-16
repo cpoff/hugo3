@@ -1,0 +1,21 @@
+---
+label: Page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: tag_list
+  name: categories
+  label: categories
+- type: tag_list
+  name: tags
+  label: tags
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: YYYY-MM-DD
