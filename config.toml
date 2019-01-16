@@ -7,14 +7,14 @@ paginate = 6
 rss = true
 theme = "hyde-hyde"
 title = "Curt Poff"
-[[menu.main]]
-name = "Tags"
-url = "/tags/"
-weight = 3
-[[menu.main]]
-name = "Categories"
-url = "/categories/"
-weight = 2
+# [[menu.main]]
+# name = "Tags"
+# url = "/tags/"
+# weight = 3
+# [[menu.main]]
+# name = "Categories"
+# url = "/categories/"
+# weight = 2
 [[menu.main]]
 identifier = "about"
 name = "About me"
@@ -25,6 +25,12 @@ identifier = "posts"
 name = "Posts"
 url = "/posts/"
 weight = 1
+[[menu.main]]
+identifier = "crypto"
+name = "Crypto"
+url = "https://keybase.io/cpoff"
+weight = 10
+
 [params]
 author = "Curt Poff"
 copyright = "Curt Poff"
