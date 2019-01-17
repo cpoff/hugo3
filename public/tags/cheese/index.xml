@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheese on Curt Poff</title>
+    <link>https://blog.curtpoff.com/tags/cheese/</link>
+    <description>Recent content in Cheese on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.curtpoff.com/tags/cheese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cheesemas is here!</title>
+      <link>https://blog.curtpoff.com/posts/cheesemas/</link>
+      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/cheesemas/</guid>
+      <description>&lt;p&gt;This Saturday we&amp;rsquo;ll host our annual holiday party, also known as Cheesemas. How that party got to this point is a long story.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

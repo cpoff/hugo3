@@ -19,6 +19,9 @@ title = "Curt Poff"
 # 	url = "/categories/"
 # 	weight = 2
 
+[permalinks]
+  posts = "/posts/:title/"
+
 [[menu.main]]
 	identifier = "about"
 	name = "About me"
@@ -64,3 +67,9 @@ title = "Curt Poff"
 	linkedin = "cpoff"
 	telegram = "cpoff"
 	twitter = "cpoff"
+
+[blackfriday]
+	 angledQuotes = false
+	 extensions = ["hardLineBreak"]
+	 fractions = false
+	 plainIDAnchors = true
