@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social on Desert Media</title>
+    <link>https://example.com/tags/social/</link>
+    <description>Recent content in Social on Desert Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Jan 2019 10:54:39 -0700</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/social/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Back in Tucson</title>
+      <link>https://example.com/posts/back-in-tucson/</link>
+      <pubDate>Fri, 04 Jan 2019 10:54:39 -0700</pubDate>
+      
+      <guid>https://example.com/posts/back-in-tucson/</guid>
+      <description>&lt;p&gt;Most of you probably know already, but The Wife and I moved back to Tucson a few months ago.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cheesemas is here!</title>
+      <link>https://example.com/posts/cheesemas/</link>
+      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/cheesemas/</guid>
+      <description>&lt;p&gt;This Saturday we&amp;rsquo;ll host our annual holiday party, also known as Cheesemas. How that party got to this point is a long story.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Move to Portland</title>
+      <link>https://example.com/posts/portland-awaits/</link>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/portland-awaits/</guid>
+      <description>&lt;p&gt;Our good friend Eric Blumenau came to town for work this week with his girlfriend, Danielle Reichner. We had a great time showing them around town.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Happy birthday to my lovely wife</title>
+      <link>https://example.com/posts/anns-birthday/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/anns-birthday/</guid>
+      <description>&lt;p&gt;My wife - Ann Chihak Poff - turns 41 on Friday. Check out &lt;a href=&#34;http://gofitgirl.com/&#34;&gt;her blog&lt;/a&gt; and I&amp;rsquo;m sure you&amp;rsquo;ll agree that she may be the most lovely 41-year-old on the planet.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

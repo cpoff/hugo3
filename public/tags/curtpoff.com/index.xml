@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curtpoff.com on Desert Media</title>
+    <link>https://example.com/tags/curtpoff.com/</link>
+    <description>Recent content in Curtpoff.com on Desert Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Jan 2019 19:53:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/curtpoff.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forestry.io now behind the scenes</title>
+      <link>https://example.com/posts/forestry-io-now-behind-the-scenes/</link>
+      <pubDate>Mon, 14 Jan 2019 19:53:00 -0700</pubDate>
+      
+      <guid>https://example.com/posts/forestry-io-now-behind-the-scenes/</guid>
+      <description>&lt;p&gt;As &lt;a href=&#34;https://example.com/posts/new-hugo-site/&#34; title=&#34;Hugo now running this site&#34;&gt;mentioned earlier&lt;/a&gt;, I&amp;rsquo;m now running a Hugo static site generator. It&amp;rsquo;s going great so far so I decided to install a CMS as phase 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo is now driving this site</title>
+      <link>https://example.com/posts/new-hugo-site/</link>
+      <pubDate>Wed, 02 Jan 2019 21:43:54 -0700</pubDate>
+      
+      <guid>https://example.com/posts/new-hugo-site/</guid>
+      <description>&lt;p&gt;Having spent the past couple months wrestling with Jekyll and Ruby gems - or more specifically: gem dependancies - I sought a new static site generator.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New theme for the Jekyll blog</title>
+      <link>https://example.com/posts/new-blog-theme/</link>
+      <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/new-blog-theme/</guid>
+      <description>&lt;p&gt;Yesterday I re-installed an advanced version of my Jekyll blog that included a new theme. Hope you find it suitable.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap homepage now operational</title>
+      <link>https://example.com/posts/new-homepage/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/new-homepage/</guid>
+      <description>&lt;p&gt;I now have a valid (and secure) website hosted at &lt;a href=&#34;https://curtpoff.com&#34;&gt;curtpoff.com&lt;/a&gt;. You may also notice that I&amp;rsquo;ve successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

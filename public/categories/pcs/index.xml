@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pcs on Desert Media</title>
+    <link>https://example.com/categories/pcs/</link>
+    <description>Recent content in Pcs on Desert Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/pcs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Portland Code School goes under</title>
+      <link>https://example.com/posts/pcs-closes/</link>
+      <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/pcs-closes/</guid>
+      <description>&lt;p&gt;On Saturday night I got word via Slack channel that the locks at &lt;a href=&#34;http://www.portlandcodeschool.com&#34;&gt;Portland Code School&lt;/a&gt; have been changed and everyone&amp;rsquo;s on their own.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Panic!</title>
+      <link>https://example.com/posts/panic/</link>
+      <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/panic/</guid>
+      <description>&lt;p&gt;Today several of us from &lt;a href=&#34;http://www.portlandcodeschool.com&#34;&gt;Portland Code School&lt;/a&gt; took a tour of &lt;a href=&#34;http://panic.com/&#34;&gt;Panic Software&lt;/a&gt;. We do about one tour a week and this one was pretty unique.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -54,7 +54,7 @@ preserveTaxonomyNames = true
     google_verification = ""
     description = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
     keywords = "web, project manager, producer, digital, developer"
-#    license= '<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC by-SA 4.0</a>'
+    license= '<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC by-SA 4.0</a>'
 
 [params.social]
     GitHub = "cpoff"

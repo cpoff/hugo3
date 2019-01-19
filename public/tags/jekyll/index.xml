@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll on Desert Media</title>
+    <link>https://example.com/tags/jekyll/</link>
+    <description>Recent content in Jekyll on Desert Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Time to play with some Jekyll themes</title>
+      <link>https://example.com/posts/jekyll-options/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/jekyll-options/</guid>
+      <description>&lt;p&gt;Now that I have the Jekyll basics down, I&amp;rsquo;m going to start tweaking some theme/template options. I want more stuff in the header, and more obvious linking between this blog and my GitHub profile. I&amp;rsquo;m not convinced the simple footer does enough.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Job search strategy</title>
+      <link>https://example.com/posts/job-search-strategy/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/job-search-strategy/</guid>
+      <description>&lt;p&gt;Now that I&amp;rsquo;ve spoken to several companies about web developer jobs, it&amp;rsquo;s clear the market is more competitive than I originally estimated. I&amp;rsquo;ve been dead-set against pursuing internships or volunteer opportunities in favor of a full-time (&lt;em&gt;paid&lt;/em&gt;) role. I plan to maintain that strategy for as long as possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

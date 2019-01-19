@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oregon on Desert Media</title>
+    <link>https://example.com/tags/oregon/</link>
+    <description>Recent content in Oregon on Desert Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/oregon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spring is in the air</title>
+      <link>https://example.com/posts/spring-sprung/</link>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/spring-sprung/</guid>
+      <description>&lt;p&gt;This week finally saw the arrival of spring. It&amp;rsquo;s been a hard winter and I&amp;rsquo;m so glad spring is here.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Move to Portland</title>
+      <link>https://example.com/posts/portland-awaits/</link>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/portland-awaits/</guid>
+      <description>&lt;p&gt;Our good friend Eric Blumenau came to town for work this week with his girlfriend, Danielle Reichner. We had a great time showing them around town.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
