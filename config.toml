@@ -1,74 +1,75 @@
-baseURL = "https://blog.curtpoff.com"
-languageCode = "en-us"
-title = "Curt Poff"
-theme = "LeaveIt"
+baseurl = "https://blog.curtpoff.com/"
 disqusShortname = "cpoff"
 enableRobotsTXT = true
 googleAnalytics = "UA-315392-10"
-paginate = 15
-rss = true
-enableEmoji = false
-preserveTaxonomyNames = true
+languageCode = "en"
 
-[taxonomies]
-    tag = "tags"
-    category = "categories"
-    series = "series"
+paginate = 6
+rss = true
+theme = "hyde-hyde"
+title = "Curt Poff"
+
+# [[menu.main]]
+# 	name = "Tags"
+# 	url = "/tags/"
+# 	weight = 3
+
+# [[menu.main]]
+# 	name = "Categories"
+# 	url = "/categories/"
+# 	weight = 2
 
 [permalinks]
-    posts = "/:title/"
+  posts = "/posts/:title/"
 
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+[[menu.main]]
+	identifier = "about"
+	name = "About me"
+	url = "/about/"
+	weight = 4
 
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 10
+[[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	url = "/posts/"
+	weight = 1
 
-  [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 20
-
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 30
-
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 40
+[[menu.main]]
+	identifier = "crypto"
+	name = "Crypto"
+	url = "https://keybase.io/cpoff"
+	weight = 10
 
 [params]
-#    since = 2011
-    author = "Curt Poff"
-    avatar = "/androidify300.png"
-    subtitle = "Web guy, beer drinker, sports fan"
-    cdn_url = ""  # Base CDN URL
-    home_mode = "" # post or other
-    google_verification = ""
-    description = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
-    keywords = "web, project manager, producer, digital, developer"
-    license= '<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC by-SA 4.0</a>'
+	author = "Curt Poff"
+	copyright = "Curt Poff"
+	dateformat = "Jan 2, 2006"
+	description = "Web guy, beer drinker, sports fan"
+	highlightjs = true
+	highlightjsstyle = "github"
+	license = "| CC by-SA 4.0"
+	licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+	showBuiltWith = true
+	siteDescription = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
+	title = "Curt Poff"
+
+[sitemap]
+	 changefreq = "monthly"
+	 filename = "sitemap.xml"
+	 priority = 0.5
 
 [params.social]
-    GitHub = "cpoff"
-    Twitter = "cpoff"
-    Email   = "curt.poff@gmail.com"
-    Instagram = "cpoff"
-    LinkedIn = "cpoff"
-#    Facebook = "Fatback"
-    Telegram = "cpoff"
-#    Dribbble = "xxoo"
-    Keybase = "cpoff"
+	email = "curt@cpoff.com"
+	github = "cpoff"
+	gravatar = "curt.poff@gmail.com"
+	instagram = "cpoff"
+	keybase = "cpoff"
+	linkedin = "cpoff"
+	telegram = "cpoff"
+	twitter = "cpoff"
 
 [blackfriday]
-    angledQuotes = false
-    extensions = ["hardLineBreak"]
-    fractions = false
-    plainIDAnchors = true
+	 angledQuotes = false
+	 extensions = ["hardLineBreak"]
+	 fractions = false
+	 plainIDAnchors = true
