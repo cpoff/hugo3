@@ -1,9 +1,8 @@
 baseurl = "https://blog.curtpoff.com/"
-disqusShortname = ""
+# disqusShortname = "cpoff"
 enableRobotsTXT = true
 googleAnalytics = "UA-315392-10"
 languageCode = "en"
-
 paginate = 6
 rss = true
 theme = "hyde-hyde"
@@ -45,6 +44,8 @@ title = "Curt Poff"
 	copyright = "Curt Poff"
 	dateformat = "Jan 2, 2006"
 	description = "Web guy, beer drinker, sports fan"
+  postNavigation = false
+  relatedPosts = true
 	highlightjs = true
 	highlightjsstyle = "github"
 	license = "| CC by-SA 4.0"
