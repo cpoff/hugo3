@@ -1,0 +1,46 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: post
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: TITLE
+- name: description
+  label: Description
+  type: textarea
+  hidden: false
+  default: DESCRIPTION
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: Curt Poff
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- type: file
+  name: thumbnail
+  label: thumbnail
+pages:
+- content/posts/anns-birthday.md
+- content/posts/forestry-io-now-behind-the-scenes.md
