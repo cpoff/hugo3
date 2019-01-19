@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Desert Media</title>
+    <link>https://example.com/tags/blog/</link>
+    <description>Recent content in Blog on Desert Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New theme for the Jekyll blog</title>
+      <link>https://example.com/posts/new-blog-theme/</link>
+      <pubDate>Fri, 04 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/new-blog-theme/</guid>
+      <description>&lt;p&gt;Yesterday I re-installed an advanced version of my Jekyll blog that included a new theme. Hope you find it suitable.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bootstrap homepage now operational</title>
+      <link>https://example.com/posts/new-homepage/</link>
+      <pubDate>Sat, 21 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/new-homepage/</guid>
+      <description>&lt;p&gt;I now have a valid (and secure) website hosted at &lt;a href=&#34;https://curtpoff.com&#34;&gt;curtpoff.com&lt;/a&gt;. You may also notice that I&amp;rsquo;ve successfully installed a CNAME record pointing this blog to a subdomain of curtpoff.com.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My blog strategy</title>
+      <link>https://example.com/posts/blog-strategy/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/blog-strategy/</guid>
+      <description>&lt;p&gt;Let me elaborate on something I mentioned earlier:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

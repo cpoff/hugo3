@@ -1,0 +1,93 @@
+baseURL                   = "https://example.com"
+builddrafts                = false
+languageCode               = "zn-Hans"
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "public"
+enableEmoji                = true
+hasCJKLanguage             = true
+summaryLength              = 200
+Paginate                   = 3
+
+theme                      = "AllinOne"
+title                      = "Curt Poff"
+
+pygmentsuseclasses         = true
+
+
+[permalinks]
+  blog                     = "/:slug/"
+
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
+
+[menu]
+#  [[menu.main]]
+#    name                   = "Blog"
+#    weight                 = -120
+#    identifier             = "blog"
+#    url                    = "blog/"
+
+  [[menu.main]]
+    name                   = "Categories"
+    weight                 = -110
+    identifier             = "categories"
+    url                    = "categories/"
+
+  [[menu.main]]
+    name                   = "Tags"
+    weight                 = -110
+    identifier             = "tags"
+    url                    = "tags/"
+
+  [[menu.main]]
+    name                   = "About"
+    weight                 = -100
+    identifier             = "about"
+    url                    = "about/"
+
+
+
+[params]
+  faviconfile              = "img/favicon.png"               # from static/
+  avatar                   = "img/androidify300.png"             # path to image in static dir e.g img/avatar.png
+  author                   = "Curt Poff"
+  description              = ["Web guy, beer drinker, sports fan"]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Hello, World!"
+  welcome_word             = "~ No Day But Today ~"
+
+  latestpostscount         = 3                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "Jan 2, 2006"
+  dateformfull             = "2006-01-02  Monday  15:04:05"
+  noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
+
+  # slides
+  slidesDirPath            = "themes/AllinOne/static/img/header-slides"    # path to image in local dir (path for hugo)
+  slidesDirPathURL         = "img/header-slides"    # path to image in static dir (for static pages)
+
+  # highlighting
+  highlightjs              = true
+
+  # latex
+  katex                    = true
+
+  # links
+  email                    = "curt.poff@gmail.com"
+  github                   = "https://github.com/cpoff"
+  linkedin                 = "https://linkedin.com/in/cpoff"
+  #telegram                 = "https://t.me/cpoff"
+  #facebook                 = "https://facebook.com/you"
+  #googleplus               = "https://google.com/you"
+  twitter                  = "https://twitter.com/cpoff"
+  gravatar                 = "curt.poff@gmail.com"
+  instagram                = "https://instagram.com/cpoff"
+  include_rss              = true                          # include RSS <link> tag in <head> and show RSS icon
+
+  # analytics
+  googleAnalytics          = "your-google-analytic-id"

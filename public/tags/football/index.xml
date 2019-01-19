@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Football on Desert Media</title>
+    <link>https://example.com/tags/football/</link>
+    <description>Recent content in Football on Desert Media</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/football/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seasons are rolling again</title>
+      <link>https://example.com/posts/seasons-are-rolling-again/</link>
+      <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/seasons-are-rolling-again/</guid>
+      <description>&lt;p&gt;Last winter was brutal, but the seasonal changes since then have been pretty nice. Long spring (blah), warm summer, lovely colors this fall, now returning to winter.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portland&#39;s home sports teams</title>
+      <link>https://example.com/posts/tv-market/</link>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/tv-market/</guid>
+      <description>&lt;p&gt;One of the things you have to deal with when you relocate is changes to your regional sports affiliation. Yeah, Portland has the Timbers and Blazers. But what else is in our TV market?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Slow time of year for sports</title>
+      <link>https://example.com/posts/sports-slow/</link>
+      <pubDate>Sun, 17 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/sports-slow/</guid>
+      <description>&lt;p&gt;The NFL playoffs are down to the final four and my Chiefs are now eliminated. Rough finish to a rough season. Thus begins the slow season for sports.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Here&#39;s to a new year</title>
+      <link>https://example.com/posts/new-year/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/new-year/</guid>
+      <description>&lt;p&gt;2015 was a transitional year for me. The lovely wife and I relocated, changed careers, and left a great group of friends and colleagues in the Bay Area. It&amp;rsquo;s been a challenge, but I&amp;rsquo;m very excitied about the future.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Christmas season in full swing</title>
+      <link>https://example.com/posts/lazy-christmas/</link>
+      <pubDate>Sat, 26 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/lazy-christmas/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://example.com/cheesemas/&#34;&gt;Cheesemas&lt;/a&gt; went off without a hitch and everyone had a wonderful time. Now it&amp;rsquo;s time to sit back and enjoy some holiday laziness. Football, binge-watching TV shows, homemade posole. It&amp;rsquo;s all in the cards.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m all about championships</title>
+      <link>https://example.com/posts/title-town/</link>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/title-town/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m very excited to have been along for TWO championships this year. Lucky me.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
