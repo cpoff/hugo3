@@ -35,9 +35,9 @@ title = "Curt Poff"
 	weight = 1
 
 [[menu.main]]
-	identifier = "crypto"
-	name = "Crypto"
-	url = "https://keybase.io/cpoff"
+	identifier = "contact"
+	name = "Contact"
+	url = "/contact/"
 	weight = 10
 
 [params]

@@ -1,82 +1,75 @@
-## Basic Configuration
 baseurl = "https://blog.curtpoff.com/"
-languageCode = "en"
-title = "Curt Poff"
-theme = "hyde-hyde"
-
-## Hugo Built-in Features
 disqusShortname = "cpoff"
-googleAnalytics = "UA-315392-10"
 enableRobotsTXT = true
+googleAnalytics = "UA-315392-10"
+languageCode = "en"
 
-# summarylength = 30
 paginate = 6
 rss = true
+theme = "hyde-hyde"
+title = "Curt Poff"
 
-## Site Settings
-[params]
-    author = "Curt Poff"
-    title = "Curt Poff"
-    siteDescription = "Curt Poff is a veteran techie now living in Tucson AZ. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
-    description = "Web guy, beer drinker, sports fan"
-    # authorimage = "/img/hugo.png"
-    dateformat = "Jan 2, 2006"
-
-    # sidebar, copyright & license
-    copyright = "Curt Poff"
-    license = "CC by-SA 4.0"
-    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
-    showBuiltWith = true
-
-    # https://highlightjs.org
-    highlightjs = true
-    highlightjsstyle = "github"
-    # themeColor = "theme-base-08"
-
-    # please choose either GraphComment or Disqus or Utterances
-    #GraphCommentId = "..."
-    #UtterancesRepo = "..." # https://utteranc.es/
-    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
-    #UtterancesTheme = "..." # github-light or github-dark
-
-    # Table of contents
-    #toc = none, "hugo", or "tocbot"
-
-## Social Accounts
-[params.social]
-  twitter = "cpoff"
-  keybase = "cpoff"
-  github = "cpoff"
-#   stackoverflow = "4547718"
-  linkedin = "cpoff"
-  instagram = "cpoff"
-  gravatar = "curt.poff@gmail.com"
-  telegram = "cpoff"
-  email = "curt@cpoff.com"
-
-## Main Menu
-[[menu.main]]
-    name = "Posts"
-    weight = 100
-    identifier = "posts"
-    url = "/posts/"
-[[menu.main]]
-    name = "Categories"
-    weight = 150
-    identifier = "categories"
-    url = "/categories/"
-[[menu.main]]
-    name = "Tags"
-    weight = 160
-    identifier = "tags"
-    url = "/tags/"
 # [[menu.main]]
-#     name = "RSS"
-#     weight = 180
-#     identifier = "rss"
-#     url = "/index.xml"
+# 	name = "Tags"
+# 	url = "/tags/"
+# 	weight = 3
+
+# [[menu.main]]
+# 	name = "Categories"
+# 	url = "/categories/"
+# 	weight = 2
+
+[permalinks]
+  posts = "/posts/:title/"
+
 [[menu.main]]
-    name = "About Me"
-    identifier = "about"
-    weight = 300
-    url = "/about/"
+	identifier = "about"
+	name = "About me"
+	url = "/about/"
+	weight = 4
+
+[[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	url = "/posts/"
+	weight = 1
+
+[[menu.main]]
+	identifier = "crypto"
+	name = "Crypto"
+	url = "https://keybase.io/cpoff"
+	weight = 10
+
+[params]
+	author = "Curt Poff"
+	copyright = "Curt Poff"
+	dateformat = "Jan 2, 2006"
+	description = "Web guy, beer drinker, sports fan"
+	highlightjs = true
+	highlightjsstyle = "github"
+	license = "| CC by-SA 4.0"
+	licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+	showBuiltWith = true
+	siteDescription = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
+	title = "Curt Poff"
+
+[sitemap]
+	 changefreq = "monthly"
+	 filename = "sitemap.xml"
+	 priority = 0.5
+
+[params.social]
+	email = "curt@cpoff.com"
+	github = "cpoff"
+	gravatar = "curt.poff@gmail.com"
+	instagram = "cpoff"
+	keybase = "cpoff"
+	linkedin = "cpoff"
+	telegram = "cpoff"
+	twitter = "cpoff"
+
+[blackfriday]
+	 angledQuotes = false
+	 extensions = ["hardLineBreak"]
+	 fractions = false
+	 plainIDAnchors = true
