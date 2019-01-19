@@ -8,7 +8,6 @@ categories:
 tags:
 - Curt Poff
 ---
-<br/>
 
 <form name="contact" method="POST" data-netlify="true">
 <label>Name: <input type="text" name="name"></label><br/>
