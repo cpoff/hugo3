@@ -1,5 +1,5 @@
 baseurl = "https://blog.curtpoff.com/"
-disqusShortname = "cpoff"
+disqusShortname = ""
 enableRobotsTXT = true
 googleAnalytics = "UA-315392-10"
 languageCode = "en"
