@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: "/contact/"
 title: Contact Me
 description: Send a message to Curt Poff.

@@ -1,72 +1,82 @@
-## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://blog.curtpoff.com/"
+# disqusShortname = "cpoff"
+enableRobotsTXT = true
+googleAnalytics = "UA-315392-10"
 languageCode = "en"
-
-title = "Title"
+paginate = 8
+rss = true
 theme = "hyde-hyde"
+title = "Curt Poff"
 
-## Hugo Built-in Features
-# disqusShortname = "your-disqus-shortname"
-# googleAnalytics = "your-google-analytics-id"
-# enableRobotsTXT = true
+# [[menu.main]]
+# 	name = "Tags"
+# 	url = "/tags/"
+# 	weight = 3
 
-# summarylength = 30
+# [[menu.main]]
+# 	name = "Categories"
+# 	url = "/categories/"
+# 	weight = 2
 
-#paginate = 5
+[permalinks]
+  posts = "/posts/:title/"
 
-## Site Settings
+[[menu.main]]
+	identifier = "about"
+	name = "About me"
+	url = "/about/"
+	weight = 20
+
+[[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	url = "/posts/"
+	weight = 10
+
+[[menu.main]]
+  identifier = "rss"
+  name = "RSS"
+  url = "/index.xml"
+  weight = 50
+
+[[menu.main]]
+	identifier = "contact"
+	name = "Contact"
+	url = "/contact/"
+	weight = 30
+
 [params]
-    author = "Author"
-    title = "Title"
-    # description = "..."
-    authorimage = "/img/hugo.png"
-    dateformat = "Jan 2, 2006"
+	author = "Curt Poff"
+	copyright = "Curt Poff"
+	dateformat = "Jan 2, 2006"
+	description = "Web guy, beer drinker, sports fan"
+  postNavigation = false
+  relatedPosts = true
+	highlightjs = true
+	highlightjsstyle = "github"
+	license = "| CC by-SA 4.0"
+	licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+	showBuiltWith = true
+	siteDescription = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
+	title = "Curt Poff"
 
-    # sidebar, copyright & license
-    copyright = "htr3n"
-    license = "CC BY-SA 4.0"
-    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
-    showBuiltWith = true
+[sitemap]
+	 changefreq = "weekly"
+	 filename = "sitemap.xml"
+	 priority = 0.5
 
-    # https://highlightjs.org
-    highlightjs = true
-    highlightjsstyle = "github"
-    
-    # please choose either GraphComment or Disqus or Utterances
-    #GraphCommentId = "..."
-    #UtterancesRepo = "..." # https://utteranc.es/
-    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
-    #UtterancesTheme = "..." # github-light or github-dark
-
-    # Table of contents
-    #toc = none, "hugo", or "tocbot"
-
-## Social Accounts
 [params.social]
-    github = "<username>"
-    instagram = "<username>"
-    xing = "<username>"
-    linkedin = "<username>"
-    twitter = "<username>"
-    facebook = "<username>"
-    stackoverflow = "<username>"
-    telegram = "<username>"
-    email = "your-email@example.com"
-    # gravatar = "your-email@example.com"
+	email = "curt@cpoff.com"
+	github = "cpoff"
+	gravatar = "curt.poff@gmail.com"
+	instagram = "cpoff"
+	keybase = "cpoff"
+	linkedin = "cpoff"
+	telegram = "cpoff"
+	twitter = "cpoff"
 
-## Main Menu
-[[menu.main]]
-    name = "Posts"
-    weight = 100
-    identifier = "posts"
-    url = "/posts/"
-[[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
-    weight = 200
-    url = "/portfolio/"
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 300
-    url = "/about/"
+[blackfriday]
+	 angledQuotes = false
+	 extensions = ["hardLineBreak"]
+	 fractions = false
+	 plainIDAnchors = true
