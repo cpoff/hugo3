@@ -7,7 +7,6 @@ paginate = 8
 rss = true
 theme = "hyde-hyde"
 title = "Curt Poff"
-author = "Curt Poff"
 
 # [[menu.main]]
 # 	name = "Tags"
@@ -21,6 +20,10 @@ author = "Curt Poff"
 
 [permalinks]
   posts = "/posts/:title/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [[menu.main]]
 	identifier = "about"
@@ -59,7 +62,9 @@ author = "Curt Poff"
 	licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 	showBuiltWith = true
 	siteDescription = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
+  siteLogo = "/androidify300.png"
 	title = "Curt Poff"
+  themeColor = ""
 
 [sitemap]
 	 changefreq = "weekly"
