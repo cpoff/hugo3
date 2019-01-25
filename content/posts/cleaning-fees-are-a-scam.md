@@ -8,7 +8,7 @@ categories: ["vacation", "travel"]
 tags: ["Phoenix","shenanigans"]
 ---
 
-After trying to book an Airbnb-type room in Phoenix for this Saturday night, I discovered the quoted price was anything but accurate.
+After trying to book an Airbnb-type room in Phoenix for this Saturday night, I discovered the quoted price was anything but accurate. Shady practices seem to be pretty common tho.
 
 <!--more-->
 
