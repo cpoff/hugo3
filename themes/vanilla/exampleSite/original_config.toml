@@ -1,10 +1,8 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Curt Poff"
-author = "Curt Poff"
-theme = "vanilla"
-googleAnalytics = ""
-avatarurl = "/androidify300.jpg"
+title = "Vanilla"
+theme = "vanilla-bootstrap-hugo-theme"
+googleAnalytics = "UA-123456789-1"
 
 # Uncomment below to enable syntax highlighting
 # pygmentsCodefences = true
@@ -14,11 +12,9 @@ avatarurl = "/androidify300.jpg"
 
 [taxonomies]
   tag = "tags"
-  categories = "categories"
-  series = "series"
 
 [permalinks]
-  post = "/posts/:filename/"
+  post = "/:filename/"
 
 # See https://feathericons.com/
 # The value of pre is the icon name
@@ -27,43 +23,33 @@ avatarurl = "/androidify300.jpg"
     name = "Home"
     pre = "home"
     url = "/"
-    weight = 10
+    weight = 1
   [[menu.main]]
-    name = "Posts"
+    name = "Blog"
     pre = "edit"
     url = "/post/"
-    weight = 20
-#  [[menu.main]]
-#    name = "Categories"
-#    pre = "box"
-#    url = "/categories/"
-#    weight = 30
+    weight = 2
   [[menu.main]]
     name = "Tags"
     pre = "tag"
     url = "/tags/"
-    weight = 35
+    weight = 3
   [[menu.main]]
     name = "About"
-    pre = "user"
+    pre = "smile"
     url = "/about/"
-    weight = 40
-  [[menu.main]]
-    name = "Contact"
-    pre = "mail"
-    url = "/contact/"
-    weight = 45
+    weight = 4
   [[menu.main]]
     name = "RSS"
     pre = "rss"
     url = "/index.xml"
-    weight = 50
+    weight = 5
 
 [params]
   includeBootstrapJs = false
   showActiveNav = true
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "Web guy, beer drinker, sports fan"
-  footerText = ""
+  homeText = "Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream."
+  footerText = "Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
   hideFooter = false
