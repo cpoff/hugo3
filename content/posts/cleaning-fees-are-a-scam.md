@@ -2,8 +2,8 @@
 layout: post
 title: Cleaning fees are some bullshit
 description: After trying to book an Airbnb-type room in Phoenix for this Saturday
-  night, I discovered the quoted price was anything but accurate. Shady practices
-  seem to be pretty common tho.
+  night, I discovered the quoted price was far from accurate. Shady practices seem
+  to be pretty common tho.
 author: Curt Poff
 date: 2019-01-25 05:47:13 +0000
 categories:
