@@ -4,7 +4,7 @@ title:  "Cleaning fees are some bullshit"
 description:  "After trying to book an Airbnb-type room in Phoenix for Saturday night, I discovered the quoted price was not accurate."
 author: Curt Poff
 date:   2019-01-24T22:47:13-07:00
-categories: ["travel"]
+categories: ["vacation", "travel"]
 tags: ["Phoenix","shenanigans"]
 ---
 
