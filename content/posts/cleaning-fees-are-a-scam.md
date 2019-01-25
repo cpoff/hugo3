@@ -1,13 +1,19 @@
 ---
 layout: post
-title:  "Cleaning fees are some bullshit"
-description:  "After trying to book an Airbnb-type room in Phoenix for Saturday night, I discovered the quoted price was not accurate."
+title: Cleaning fees are some bullshit
+description: After trying to book an Airbnb-type room in Phoenix for this Saturday
+  night, I discovered the quoted price was anything but accurate. Shady practices
+  seem to be pretty common tho.
 author: Curt Poff
-date:   2019-01-24T22:47:13-07:00
-categories: ["vacation", "travel"]
-tags: ["Phoenix","shenanigans"]
----
+date: 2019-01-25 05:47:13 +0000
+categories:
+- vacation
+- travel
+tags:
+- Phoenix
+- shenanigans
 
+---
 After trying to book an Airbnb-type room in Phoenix for this Saturday night, I discovered the quoted price was anything but accurate. Shady practices seem to be pretty common tho.
 
 <!--more-->
