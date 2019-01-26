@@ -18,11 +18,11 @@ After trying to book an Airbnb-type room in Phoenix for this Saturday night, I d
 
 <!--more-->
 
-I went to my favorite [flight/hotel search website](https://hipmunk.com) and did my search. One-night stay around downtown Phoenix so we can visit Kate/Jason who happen to be in town on family business. Nothing big. Just drive up on Saturday, do some socializing, then get up on Sunday for a brunch before heading home.
+I went to my favorite [flight/hotel search website](https://hipmunk.com) and did a search. One-night stay around downtown Phoenix so we can visit Kate/Jason who happen to be in town on family business. Nothing big. Just drive up on Saturday, do some socializing, then get up on Sunday for a brunch before heading home.
 
 Rooms around downtown are rather pricey. So I was delighted to find a one-bedroom apartment available right next to the Arizona Center for $148. It was offered through Booking.com so I filled out my forms and made the reservation. Easy enough, right?
 
-I immediately got the confirmation. It listed my rate ($148), the taxes/fees (another $20, which seems fair), then they threw in a 'cleaning fee' for $65. That's where I called bullshit.
+I immediately got the confirmation. It listed my rate at $148, taxes/fees added for another $20 (which seems fair), then they tacked on a 'cleaning fee' for $65. That's nearly 45 percent of the room-rate and that's where I called bullshit.
 
 I contacted both Booking.com and the shady rental property -
 [Stay Alfred Union at Roosevelt](https://www.stayalfred.com/property/stay-alfred-at-union-roosevelt) - and argued that the cleaning fee should be built into the room rate. Anyway, I made my case that the fee was expected to be part of the rate and I didn't agree to such a drastic charge as an add-on. Long story short: I won that argument and they canceled my booking without any charges.
