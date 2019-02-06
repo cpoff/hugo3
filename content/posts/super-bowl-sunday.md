@@ -3,7 +3,6 @@ author = "Curt Poff"
 categories = ["sports"]
 date = "2019-02-05T23:00:00-07:00"
 description = "Since the Super Bowl looked like - and turned out to be a total - snoozer, the wife and I made alternate plans."
-draft = true
 layout = "post"
 tags = ["chiefs", "social"]
 thumbnail = ""
