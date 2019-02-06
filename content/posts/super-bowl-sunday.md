@@ -2,7 +2,7 @@
 author = "Curt Poff"
 categories = ["sports"]
 date = "2019-02-05T22:00:00-07:00"
-description = "Since the Super Bowl looked like - and turned out to be - a snoozer, the wife and I made alternate plans."
+description = "Since the Super Bowl looked like - and turned out to be - a total snoozer, the wife and I made alternate plans."
 layout = "post"
 tags = ["chiefs", "social"]
 thumbnail = ""
