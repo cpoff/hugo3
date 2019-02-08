@@ -11,6 +11,7 @@
     "headline" : "{{ .Title }}",
     "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Description }}{{ end }}{{ end }}",
     "inLanguage" : "en-US",
+    "publisher" : "{{ .Params.author }}",
     "author" : "{{ .Params.author }}",
     "copyrightHolder" : "Curt Poff",
     "copyrightYear" : "{{ .Date.Format "2006" }}",
