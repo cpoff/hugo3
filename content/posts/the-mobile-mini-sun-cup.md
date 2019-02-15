@@ -15,7 +15,7 @@ This year was great because my beloved Timbers returned and so did our natural r
 
 Timbers have all kinds of regional groups on the West Coast, including Arizona. The [Desert Corps](https://twitter.com/desertcorps "Timbers Army: Desert Corps") seems pretty organized and did a good job getting everyone informed about events well in advance. So Ann and I joined them at the well-attended tailgate. Here's a shot of us, and my newly acquired DC scarf.
 
-![](/uploads/sun_cup.jpg)
+![](/uploads/sun_cup_sharp.png)
 
 Throw in a cooler full of beers and some grilled burgers. Good time and a pretty social bunch of folks.
 
