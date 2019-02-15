@@ -5,7 +5,7 @@ date = "2019-02-15T11:23:00-07:00"
 description = "The Wife and I had a great time at the Mobile Mini Sun Cup, where we saw our Portland Timbers demolish the poor Seattle Flounders."
 layout = "post"
 tags = ["social", "Timbers"]
-thumbnail = "/uploads/sun_cup.jpg"
+thumbnail = "https://blog.curtpoff.com/uploads/sun_cup_sharp.png"
 title = "The Mobile Mini Sun Cup"
 
 +++
