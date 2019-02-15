@@ -19,6 +19,6 @@ Timbers have all kinds of regional groups on the West Coast, including Arizona. 
 
 Throw in a cooler full of beers and some grilled meats. Good times and a pretty social bunch of folks.
 
-Gametime was pretty exciting. It's a pre-season game but the Timbers Army did its thing. We occupied (almost) the entire section, rolled out a fine TIFO after the national anthem, and kept the chants running through the whole match. Speaking of which, Portland won 2-1 with goals by Diego Valeri (PK) and Jeremy Ebobissie (assist by Dairon Asprilla).
+Gametime was pretty exciting. It's a pre-season game but the [Timbers Army](https://timbersarmy.org/ "Timbers Army") did its thing. We occupied (almost) the entire section, rolled out a fine TIFO after the national anthem, and kept the chants running through the whole match. Speaking of which, Portland won 2-1 with goals by Diego Valeri (PK) and Jeremy Ebobissie (assist by Dairon Asprilla).
 
 Next up for Portland is NY Red Bull this weekend.
