@@ -24,7 +24,7 @@ sections:
   templates:
   - post
 upload_dir: static/uploads
-public_path: "/uploads"
+public_path: https://blog.curtpoff.com/uploads
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
