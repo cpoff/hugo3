@@ -9,7 +9,7 @@ thumbnail = "/uploads/sun_cup.jpg"
 title = "The Mobile Mini Sun Cup"
 
 +++
-Each spring Tucson hosts a small-ish soccer tournament called the [Mobile Mini Sun Cup](https://en.wikipedia.org/wiki/2019_Mobile_Mini_Sun_Cup "Mobile Mini Sun Cup"). It's pretty much an MLS version of the Cactus League involving several MLS teams, Phoenix Rising (USL), and Tucson FC (USL League One) playing a round-robin format and numerous exhibitions in between. 
+Each spring Tucson hosts a small-ish soccer tournament called the [Mobile Mini Sun Cup](https://en.wikipedia.org/wiki/2019_Mobile_Mini_Sun_Cup "Mobile Mini Sun Cup"). It's pretty much an MLS version of the Cactus League involving several MLS teams, [Phoenix Rising](https://www.phxrisingfc.com/ "Phoenix Rising") (USL), and [FC Tucson](https://www.fctucson.com/ "FC Tucson") (USL League One) playing a round-robin format and numerous exhibitions in between.
 
 This year was great because my beloved Timbers returned and so did our natural rivals from Seattle. Each MLS team only plays four 'cup' matches so it seemed only natural that Portland vs. Seattle would be on the schedule.
 
