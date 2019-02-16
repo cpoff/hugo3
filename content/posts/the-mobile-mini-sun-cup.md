@@ -19,6 +19,6 @@ Timbers have all kinds of regional groups on the West Coast, including Arizona. 
 
 Throw in a cooler full of beers and some grilled meats. Good times and a pretty social bunch of folks.
 
-Gametime was pretty exciting. It may be just a pre-season game but the [Timbers Army](https://timbersarmy.org/ "Timbers Army") still did its thing. We occupied (almost) the entire section, rolled out a fine [TIFO](https://www.timbers.com/post/2019/02/14/timbers-tucson-desert-corps-amplify-postseason-triumph-rivalry-tifo "TIFO") after the national anthem, and kept the chants running through the whole match. Speaking of which, Portland won 2-1 with goals by Diego Valeri (PK) and Jeremy Ebobissie (assist by Dairon Asprilla).
+Gametime was pretty exciting. It may be just a pre-season game but the [Timbers Army](https://timbersarmy.org/ "Timbers Army") still did its thing. We occupied (almost) the entire section, rolled out a fine [TIFO](https://www.timbers.com/post/2019/02/14/timbers-tucson-desert-corps-amplify-postseason-triumph-rivalry-tifo "TIFO") after the national anthem, and kept the chants running through the whole match. Speaking of which, Portland won 2-1 with goals by Diego Valeri (PK after Andy Polo fouled in the box) and Jeremy Ebobissie (assist by Dairon Asprilla).
 
 Next up for Portland is NY Red Bull this weekend.
