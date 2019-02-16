@@ -1,13 +1,18 @@
 ---
 layout: post
-title: "Back in Tucson"
-description: "Most of you probably know already, but The Wife and I moved back to Tucson a few months ago."
-date: 2019-01-04T10:54:39-07:00
+title: Back in Tucson
+description: Most of you probably know already, but The Wife and I moved back to Tucson
+  a few months ago.
+date: 2019-01-04 17:54:39 +0000
 author: Curt Poff
-categories: ["Tucson"]
-tags: ["relocate", "social"]
----
+categories:
+- Tucson
+tags:
+- relocate
+- social
+- Tucson
 
+---
 Most of you probably know already, but The Wife and I moved back to Tucson a few months ago. 
 
 <!--more-->
@@ -21,6 +26,3 @@ My wife will also get to re-connect with her beloved alma mater: The Univ. of Ar
 Some of the things we're hoping to do together soon include: a trip to the Grand Canyon, a getaway to Rocky Point down in Mexico, making the short drive to San Diego to demand hospitality from Jen & Dave, and just getting back to traveling more often.
 
 Of course everyone's welcome to pay a visit. We know a few good places to share with friends.
-
-
-
