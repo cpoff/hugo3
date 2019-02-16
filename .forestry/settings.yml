@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: true
 admin_path: "/admin/"
-webhook_url: 
+webhook_url: https://hooks.zapier.com/hooks/catch/2230333/phybnk/
 sections:
 - type: directory
   path: content
