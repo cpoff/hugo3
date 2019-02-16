@@ -13,7 +13,7 @@ Each spring Tucson hosts a small-ish soccer tournament called the [Mobile Mini S
 
 This year was great because my beloved Timbers returned and so did our natural rivals from Seattle. Each MLS team only plays a few 'cup' matches so it seemed  natural that Portland vs. Seattle would be on the schedule.
 
-Timbers have all kinds of regional groups on the West Coast, including Arizona. The [Desert Corps](https://twitter.com/desertcorps "Timbers Army: Desert Corps") was pretty organized and did a good job getting everyone informed about events well in advance. So [Ann](https://www.instagram.com/therealgofitgirl/ "Ann Chihak Poff") and I joined them at the well-attended tailgate. Here's a shot of us, and my newly acquired DC scarf.
+Timbers have all kinds of regional groups on the West Coast, including Arizona. The [Desert Corps](https://twitter.com/desertcorps "Timbers Army: Desert Corps") was pretty organized and did a good job getting everyone informed about events via FB and Twitter well in advance. So [Ann](https://www.instagram.com/therealgofitgirl/ "Ann Chihak Poff") and I joined them at the well-attended tailgate. Here's a shot of us, and my newly acquired DC scarf.
 
 ![](/uploads/sun_cup_sharp.png)
 
