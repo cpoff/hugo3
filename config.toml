@@ -7,17 +7,8 @@ paginate = 8
 rss = true
 theme = "hyde-hyde"
 title = "Curt Poff"
-
-# [[menu.main]]
-# 	name = "Tags"
-# 	url = "/tags/"
-# 	weight = 3
-
-# [[menu.main]]
-# 	name = "Categories"
-# 	url = "/categories/"
-# 	weight = 2
-
+description = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
+ 
 [permalinks]
   posts = "/posts/:title/"
 
@@ -54,17 +45,17 @@ title = "Curt Poff"
 	copyright = "Curt Poff"
 	dateformat = "Jan 2, 2006"
 	description = "Web guy, beer drinker, sports fan"
-  postNavigation = false
-  relatedPosts = true
+  	postNavigation = false
+  	relatedPosts = true
 	highlightjs = true
 	highlightjsstyle = "github"
 	license = "| CC by SA 4.0"
 	licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 	showBuiltWith = true
 	siteDescription = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
-  siteLogo = "/androidify300.png"
+  	siteLogo = "/androidify300.png"
 	title = "Curt Poff"
-  themeColor = ""
+  	themeColor = ""
 
 [sitemap]
 	 changefreq = "weekly"
