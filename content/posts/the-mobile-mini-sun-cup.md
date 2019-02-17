@@ -9,9 +9,11 @@ thumbnail = "https://blog.curtpoff.com/uploads/sun_cup_sharp.png"
 title = "The Mobile Mini Sun Cup"
 
 +++
-Each spring Tucson hosts a small-ish soccer tournament called the [Mobile Mini Sun Cup](https://en.wikipedia.org/wiki/2019_Mobile_Mini_Sun_Cup "Mobile Mini Sun Cup"). It's pretty much an MLS version of the Cactus League involving several MLS teams, [Phoenix Rising](https://www.phxrisingfc.com/ "Phoenix Rising") (USL), and [FC Tucson](https://www.fctucson.com/ "FC Tucson") (USL League One) playing a round-robin format and numerous exhibitions in between.
+Each spring Tucson hosts a small-ish soccer tournament called the [Mobile Mini Sun Cup](https://en.wikipedia.org/wiki/2019_Mobile_Mini_Sun_Cup "Mobile Mini Sun Cup"). 
 
-This year was great because my beloved Timbers returned and so did our natural rivals from Seattle. Each MLS team only plays a few 'cup' matches so it seemed  natural that Portland vs. Seattle would be on the schedule.
+<!--more-->
+
+It's pretty much an MLS version of the Cactus League involving several MLS teams, [Phoenix Rising](https://www.phxrisingfc.com/ "Phoenix Rising") (USL), and [FC Tucson](https://www.fctucson.com/ "FC Tucson") (USL League One) playing a round-robin format and numerous exhibitions in between. This year was great because my beloved Timbers returned and so did our natural rivals from Seattle. Each MLS team only plays a few 'cup' matches so it seemed  natural that Portland vs. Seattle would be on the schedule.
 
 Timbers have all kinds of regional groups on the West Coast, including Arizona. The [Desert Corps](https://twitter.com/desertcorps "Timbers Army: Desert Corps") was pretty organized and did a good job getting everyone informed about events via FB and Twitter well in advance. So [Ann](https://www.instagram.com/therealgofitgirl/ "Ann Chihak Poff") and I joined them at the well-attended tailgate. Here's a shot of us, and my newly acquired DC scarf.
 
