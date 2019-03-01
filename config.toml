@@ -57,6 +57,8 @@ description = "Curt Poff is a veteran techie now living in Tucson. Past homes in
   	siteLogo = "/androidify300.png"
 	title = "Curt Poff"
   	themeColor = ""
+  [params.image]
+    url = "/androidify300.png"
 
 [sitemap]
 	 changefreq = "weekly"
