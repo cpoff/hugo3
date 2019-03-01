@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ham on Curt Poff</title>
+    <link>https://blog.curtpoff.com/tags/ham/</link>
+    <description>Recent content in Ham on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.curtpoff.com/tags/ham/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Here comes the ham</title>
+      <link>https://blog.curtpoff.com/posts/here-comes-the-ham/</link>
+      <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/here-comes-the-ham/</guid>
+      <description>&lt;p&gt;Just participated in another annual tradition, this time with a Thanksgiving twist. I ordered a ham and bacon shipment from &lt;a href=&#34;http://www.smokehouse.com/&#34;&gt;Burgers Smokehouse&lt;/a&gt; in Missouri.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

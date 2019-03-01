@@ -17,5 +17,6 @@
 <meta name="twitter:creator" content="@cpoff">
 <meta property="twitter:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
 <meta property="twitter:card" content="{{.Site.BaseURL}}images/site-logo.png">
+<meta property="twitter:image" content="{{ if .Params.image }}{{.Site.BaseURL}}/images/{{.Params.image}}{{ else }}{{.Site.BaseURL}}images/site-logo.png{{ end }}">
 <meta property="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.SiteDescription }}{{ end }}">
 <meta property="twitter:site_name" content="{{ .Site.Title }}">
