@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portland on Curt Poff</title>
+    <link>https://blog.curtpoff.com/categories/portland/</link>
+    <description>Recent content in Portland on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.curtpoff.com/categories/portland/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Here&#39;s to a new year</title>
+      <link>https://blog.curtpoff.com/posts/heres-to-a-new-year/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/heres-to-a-new-year/</guid>
+      <description>&lt;p&gt;2015 was a transitional year for me. The lovely wife and I relocated, changed careers, and left a great group of friends and colleagues in the Bay Area. It&amp;rsquo;s been a challenge, but I&amp;rsquo;m very excitied about the future.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Move to Portland</title>
+      <link>https://blog.curtpoff.com/posts/move-to-portland/</link>
+      <pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/move-to-portland/</guid>
+      <description>&lt;p&gt;Our good friend Eric Blumenau came to town for work this week with his girlfriend, Danielle Reichner. We had a great time showing them around town.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big October</title>
+      <link>https://blog.curtpoff.com/posts/big-october/</link>
+      <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/big-october/</guid>
+      <description>&lt;p&gt;October is typically a busy month in our household. Ann&amp;rsquo;s birthday, our anniversary, plus almost every other anniversary on the planet. Another big birthday this year belongs to one of my best friends: Ken Conforti. Ken and I were roommates back in the late &amp;lsquo;90s. He turns the big 5-0 next week.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

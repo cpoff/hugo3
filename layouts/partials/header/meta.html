@@ -11,3 +11,10 @@
 <meta property="og:image" content="{{ if .Params.image }}{{.Site.BaseURL}}/images/{{.Params.image}}{{ else }}{{.Site.BaseURL}}images/site-logo.png{{ end }}">
 <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.SiteDescription }}{{ end }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
+
+<!-- Twitter card Protocol http://ogp.me/ -->
+<meta property="twitter:locale" content="en_US">
+<meta property="twitter:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+<meta property="twitter:image" content="{{ if .Params.image }}{{.Site.BaseURL}}/images/{{.Params.image}}{{ else }}{{.Site.BaseURL}}images/site-logo.png{{ end }}">
+<meta property="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.SiteDescription }}{{ end }}">
+<meta property="twitter:site_name" content="{{ .Site.Title }}">
