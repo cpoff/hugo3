@@ -46,19 +46,18 @@ description = "Curt Poff is a veteran techie now living in Tucson. Past homes in
 	copyright = "Curt Poff"
 	dateformat = "Jan 2, 2006"
 	description = "Tucson resident, Missouri native, web guy, sports fan"
-  	postNavigation = false
-  	relatedPosts = true
+  postNavigation = false
+  relatedPosts = true
 	highlightjs = true
 	highlightjsstyle = "github"
 	license = "| CC by SA 4.0"
 	licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 	showBuiltWith = true
 	siteDescription = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
-  	siteLogo = "/androidify300.png"
+  siteLogo = "androidify300.png"
 	title = "Curt Poff"
-  	themeColor = ""
-  [params.image]
-    url = "/androidify300.png"
+  themeColor = ""
+
 
 [sitemap]
 	 changefreq = "weekly"
