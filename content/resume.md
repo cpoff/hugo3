@@ -46,11 +46,11 @@ KGW NewsChannel 8, Portland Ore., April 2000 - June 2001
 —Created and edited content for all sections of kgw.com, including news, sports, business and technology, arts & entertainment.
 
 **TECHNICAL SKILLS**
-—HTML5, CSS, JavaScript (NodeJS, jQuery, Backbone), Bootstrap, Gulp, Heroku, PostgreSQL, RESTful web services, Express/Pug/Handlebars, text editors, packages/plug-ins/ tools, TDD, Adobe Creative Suite (Photoshop). Always eager to learn more.
-—I have experience using open-source CMS (Drupal, Joomla, WordPress), Agile project management, and Git version control. 
+—HTML5, CSS, JavaScript (NodeJS, jQuery, Backbone), Bootstrap, Gulp, Heroku/Netlify, PostgreSQL, RESTful web services, Express/Pug/Handlebars, text editors, Adobe Creative Suite. Always eager to learn more.
+—I have extensive experience using open-source CMS (Drupal, Joomla, WordPress), static site generators, Agile project management, and Git version control. 
 —Able to function independently and/or in a team environment.
 
 **EDUCATION**
 * B.S. in History, Portland State University
-* Pragmatic Product Management
-* Certificate of Completion, Portland Code School - Javascript Immersion
+* Pragmatic Product Management (2011)
+* Certificate of Completion, Portland Code School - Javascript Immersion (2016)
