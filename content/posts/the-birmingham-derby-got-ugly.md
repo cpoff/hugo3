@@ -9,7 +9,7 @@ thumbnail = "https://blog.curtpoff.com/uploads/st_james_park.jpg"
 title = "The Birmingham Derby got ugly"
 
 +++
-Today's match between Birmingham City and Aston Villa saw a disturbing act of fan violence. A City fan ran onto the pitch and threw the definition of a sucker punch at Villa captain Jack Grealish. Here's [_The Guardian_'s report](https://www.theguardian.com/football/2019/mar/10/aston-villa-jack-grealish-attacked-by-spectator-birmingham-city "The Guardian's reort").
+Today's match between Birmingham City and Aston Villa saw a disturbing act of fan violence. A City fan ran onto the pitch at St. Andrew's and threw the definition of a sucker punch at Villa captain Jack Grealish. Here's [_The Guardian_'s report](https://www.theguardian.com/football/2019/mar/10/aston-villa-jack-grealish-attacked-by-spectator-birmingham-city "The Guardian's reort").
 
 Fan violence is nothing new in English football. But typically it involves pre- or post-game scuffles between rival supporters groups outside the stadium. Even to this day, visiting supporter sections are ringed with uniformed stewards who keep the rival factions away from each other. On-pitch problems are rare and deserve harsh, severe punishment.
 
