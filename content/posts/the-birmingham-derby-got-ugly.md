@@ -1,13 +1,13 @@
 +++
 author = "Curt Poff"
 categories = ["sports"]
+comments = true
 date = "2019-03-10T12:30:00-07:00"
 description = "Today's match between Birmingham City and Aston Villa saw a disturbing act of fan violence. "
 layout = "post"
 tags = ["soccer", "England", "Birmingham", "shenanigangs"]
 thumbnail = "https://blog.curtpoff.com/uploads/st_james_park.jpg"
 title = "The Birmingham Derby got ugly"
-comments = true
 
 +++
 Today's match between Birmingham City and Aston Villa saw a disturbing act of fan violence. A City fan ran onto the pitch at St. Andrew's and threw the definition of a sucker punch at Villa captain Jack Grealish. Here's [_The Guardian_'s report](https://www.theguardian.com/football/2019/mar/10/aston-villa-jack-grealish-attacked-by-spectator-birmingham-city "The Guardian's reort").
@@ -30,7 +30,7 @@ I've taken my wife to the World Cup, to Azteca Stadium in Mexico City, and to on
 
 ![](https://blog.curtpoff.com/uploads/st_james_park.JPG)And in each one of those huge events I mentioned, it was always a pretty good family environment.
 
-Crowd control isn't easy. But it's a policy-level decision: How crowds are moved into and out-of confined spaces, who (if anyone) monitors and forms a barrier between fans, the action, and each other. England learned those practices the hard way. And now it appears as though some people have either forgotten - or never knew about - the totally unpleasant environment they've moved on from.
+Crowd control isn't easy. But it's a policy-level decision: How crowds are moved into and out-of confined spaces, who (if anyone) monitors and forms a barrier between fans, the action, and each other. England learned those practices the hard way. It also has to involve the fans, and knowing there are certain lines you shouldn't cross. And now it appears as though some people have either forgotten - or never knew about - the totally unpleasant environment they've moved on from.
 
 Back to today's match in Birmingham: Birmingham City FC [released a statement](https://twitter.com/BCFC/status/1104747163219841024) saying the fan who attacked Grealish will be banned for life. But I'm not sure how enforceable that punishment will be. Hopefully local police - who already have him under arrest - will take more severe measures.
 
