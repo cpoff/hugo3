@@ -32,3 +32,5 @@ I've taken my wife to the World Cup, to Azteca Stadium in Mexico City, and to on
 Crowd control isn't easy. But it's a policy-level decision: How crowds are moved into and out-of confined spaces, who (if any) monitors and stands between fans and the action. England learned those practices the hard way. And now it appears as though some people have either forgotten - or never knew about - the totally unpleasant environment they've moved on from.
 
 Back to today's match in Birmingham: Grealish gave the final, ultimate FUCK YOU to City fans as he netted the only goal in [Villa's 1-0 win](https://www.bbc.com/sport/football/47431193 "BBC game report").
+
+Birmingham City FC already released a statement saying the fan who attacked Grealish will be banned for life. But I'm not sure how enforceable that punishment will be. Hopefully local police - who already have him under arrest - will take more severe measures.
