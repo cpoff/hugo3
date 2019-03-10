@@ -7,6 +7,7 @@ layout = "post"
 tags = ["soccer", "England", "Birmingham", "shenanigangs"]
 thumbnail = "https://blog.curtpoff.com/uploads/st_james_park.jpg"
 title = "The Birmingham Derby got ugly"
+comments = true
 
 +++
 Today's match between Birmingham City and Aston Villa saw a disturbing act of fan violence. A City fan ran onto the pitch at St. Andrew's and threw the definition of a sucker punch at Villa captain Jack Grealish. Here's [_The Guardian_'s report](https://www.theguardian.com/football/2019/mar/10/aston-villa-jack-grealish-attacked-by-spectator-birmingham-city "The Guardian's reort").
