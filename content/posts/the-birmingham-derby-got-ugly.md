@@ -15,7 +15,7 @@ Fan violence is nothing new in English football. But typically it involves pre- 
 
 Of course I learned of today's incident while watching Arsenal vs. Man U on NBCSN. They showed the Birmingham incident during halftime. When they cut back to the match, Arlo White (who grew up supporting Leicester City, not really a '[prawn sandwich](https://en.wikipedia.org/wiki/Prawn_sandwich_brigade)' crowd) talked about how we need to keep in mind the 'dark days' of English football or risk reverting to a time when fans were literally kept in cages. That really summed it all up for me.
 
-Quick background: Up to the 1990s, most big stadia in England contained terraces. Those are just concrete platforms where the tickets sold were cheap and had no seats. If you had a ticket for a section, you just crowded in wherever there was room. As a result, clubs would often oversell each of those sections and just let the SRO fans deal with it.
+Quick background: Up to the 1990s, most big stadia in England contained fenced terraces. Those are just concrete platforms where the tickets sold were cheap and had no seats. If you had a ticket for a section, you just crowded in wherever there was room. As a result, clubs would often oversell each of those sections and just let the SRO fans deal with it.
 
 So you wound up with gigantic steel barriers between the players and fans. And most visitors sections were completely enclosed by barriers. It wasn't - by any stretch of the imagination - a pleasant setting.
 
