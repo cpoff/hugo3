@@ -3,9 +3,9 @@ author = "Curt Poff"
 categories = ["sports"]
 date = "2019-03-10T12:30:00-07:00"
 description = "Today's match between Birmingham City and Aston Villa saw a disturbing act of fan violence. "
-draft = true
 layout = "post"
 tags = ["soccer", "England", "Birmingham", "shenanigangs"]
+thumbnail = ""
 title = "The Birmingham Derby got ugly"
 
 +++
