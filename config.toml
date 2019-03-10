@@ -1,4 +1,4 @@
-baseurl = "https://blog.curtpoff.com/"
+baseurl = "https://blog.curtpoff.com"
 disqusShortname = "cpoff"
 enableRobotsTXT = true
 googleAnalytics = "UA-315392-10"
