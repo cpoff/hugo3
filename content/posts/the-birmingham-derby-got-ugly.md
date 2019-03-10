@@ -11,7 +11,7 @@ title = "The Birmingham Derby got ugly"
 +++
 Today's match between Birmingham City and Aston Villa saw a disturbing act of fan violence. A City fan ran onto the pitch and threw the definition of a sucker punch at Villa captain Jack Grealish. Here's [_The Guardian_'s report](https://www.theguardian.com/football/2019/mar/10/aston-villa-jack-grealish-attacked-by-spectator-birmingham-city "The Guardian's reort").
 
-Fan violence is nothing new in English football. But typically it involved pre- or post-game scuffles between rival supporters groups outside the stadium. On-pitch problems are rare and deserve harsh, severe punishment.
+Fan violence is nothing new in English football. But typically it involves pre- or post-game scuffles between rival supporters groups outside the stadium. On-pitch problems are rare and deserve harsh, severe punishment.
 
 Of course I learned of today's incident while watching Arsenal vs. Man U on NBCSN. They showed the Birmingham event at halftime. When they cut back to the match, Arlo White (who grew up a Leicester City fan, not really a '[prawn sandwich](https://en.wikipedia.org/wiki/Prawn_sandwich_brigade)' crowd) talked about how fans need to keep in mind the 'dark days' of English football or risk returning to the day when fans were literally kept in cages. That really summed it all up for me.
 
