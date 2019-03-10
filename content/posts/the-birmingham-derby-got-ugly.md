@@ -21,7 +21,7 @@ So you wound up with gigantic steel barriers between the players and fans. And m
 
 Then 100 people got crushed in the [Hillsborough disaster](https://en.wikipedia.org/wiki/Hillsborough_disaster "Hillsborough disaster").
 
-The resulting inquest after that tragedy was that every ticket sold in the top two tiers of English football has to be for an assigned seat. No more standing terraces, and the eventual elimination of the steel barriers between the fans and pitch.
+The resulting inquest after that tragedy placed a lot of the blame on crowd control, policing of crowds, and stadium configuration. It now requires that every ticket sold in the top two tiers of English football has to be for an assigned seat. No more standing terraces, and the eventual elimination of the steel barriers between the fans and pitch.
 
 I've been to more sports events than I can count. Sometimes alone, often times with family and friends, I've had words with opposing fans, seen plenty of shoving matches and plenty of hands thrown. But I've never EVER feared for my own safety.
 
