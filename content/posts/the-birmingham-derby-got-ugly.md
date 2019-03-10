@@ -29,7 +29,7 @@ I've taken my wife to the World Cup, to Azteca Stadium in Mexico City, and to on
 
 ![](https://blog.curtpoff.com/uploads/st_james_park.JPG)And in each one of those huge events I mentioned, it was always a pretty good family environment.
 
-Crowd control isn't easy. But it's a policy-level decision: How crowds are moved into and out-of confined spaces, who (if any) monitors and stands between fans and the action. England learned those practices the hard way. And now it appears as though some people have either forgotten - or never knew about - the totally unpleasant environment they've moved on from.
+Crowd control isn't easy. But it's a policy-level decision: How crowds are moved into and out-of confined spaces, who (if anyone) monitors and forms a barrier between fans, the action, and each other. England learned those practices the hard way. And now it appears as though some people have either forgotten - or never knew about - the totally unpleasant environment they've moved on from.
 
 Back to today's match in Birmingham: Grealish gave the final, ultimate FUCK YOU to City fans as he netted the only goal in [Villa's 1-0 win](https://www.bbc.com/sport/football/47431193 "BBC game report").
 
