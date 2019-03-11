@@ -1,3 +1,4 @@
+<p>
 {{ if ne .Params.showcomments false }}
     {{ if .Site.DisqusShortname }}
         {{ partial "page-single/comment/disqus.html" . }}
@@ -7,3 +8,4 @@
         {{ partial "page-single/comment/utterances.html" . }}
     {{ end }}
 {{ end }}
+</p>
