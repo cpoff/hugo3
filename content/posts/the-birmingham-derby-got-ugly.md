@@ -10,7 +10,7 @@ thumbnail = "https://blog.curtpoff.com/uploads/st_james_park.jpg"
 title = "The Birmingham Derby got ugly"
 
 +++
-Today's match between Birmingham City and Aston Villa (both sides in the second tier of English football) saw a disturbing act of fan violence. A City fan ran onto the pitch at St. Andrew's and threw the definition of a sucker punch at Villa captain Jack Grealish. 
+Today's match between Birmingham City and Aston Villa (both sides in the second tier of English football) saw a disturbing act of fan violence. A City fan ran onto the pitch at St. Andrew's and threw the definition of a sucker punch at Villa captain Jack Grealish.
 
 Here's [_The Guardian_'s report](https://www.theguardian.com/football/2019/mar/10/aston-villa-jack-grealish-attacked-by-spectator-birmingham-city "The Guardian's reort").
 
@@ -37,3 +37,7 @@ Crowd control isn't easy. But it's a policy-level decision: How crowds are moved
 Back to today's match in Birmingham: Birmingham City FC [released a statement](https://twitter.com/BCFC/status/1104747163219841024) saying the fan who attacked Grealish will be banned for life. But I'm not sure how enforceable that punishment will be. Hopefully local police - who already have him under arrest - will take more severe measures.
 
 And Grealish gave the ultimate FUCK YOU to City fans as he netted the only goal in [Villa's 1-0 win](https://www.bbc.com/sport/football/47431193 "BBC game report") over their cross-town rivals.
+
+***
+
+**UPDATE**: Apparently the bloke was sentenced to 14-weeks in jail, several fines (including one hundred pound paid to Jack Grealish), a 10-year ban from all football activities, and a lifetime ban from Birmingham City FC. [Full report](https://www.theguardian.com/football/2019/mar/11/birmingham-city-fan-paul-mitchell-aston-villa-jack-grealish-pleads-guilty) from _The Guardian_.
