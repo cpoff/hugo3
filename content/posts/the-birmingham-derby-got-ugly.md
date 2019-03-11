@@ -5,7 +5,7 @@ comments = true
 date = "2019-03-10T12:30:00-07:00"
 description = "Today's match between Birmingham City and Aston Villa saw a disturbing act of fan violence. "
 layout = "post"
-tags = ["soccer", "England", "Birmingham", "shenanigangs"]
+tags = ["soccer", "England", "Birmingham", "shenanigans"]
 thumbnail = "https://blog.curtpoff.com/uploads/st_james_park.jpg"
 title = "The Birmingham Derby got ugly"
 
