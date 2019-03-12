@@ -40,4 +40,4 @@ And Grealish gave the ultimate FUCK YOU to City fans as he netted the only goal 
 
 ***
 
-**UPDATE**: Apparently the bloke was sentenced to 14 weeks in jail, several fines (including one hundred pounds paid to Jack Grealish), a 10-year ban from all football activities, and a lifetime ban from Birmingham City FC. [Full report](https://www.theguardian.com/football/2019/mar/11/birmingham-city-fan-paul-mitchell-aston-villa-jack-grealish-pleads-guilty) from _The Guardian_.
+**UPDATE**: Apparently the bloke was sentenced to 14 weeks in jail, several fines (including £100 paid to Jack Grealish), a 10-year ban from all football activities, and a lifetime ban from Birmingham City FC. [Full report](https://www.theguardian.com/football/2019/mar/11/birmingham-city-fan-paul-mitchell-aston-villa-jack-grealish-pleads-guilty) from _The Guardian_.
