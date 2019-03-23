@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weather on Curt Poff</title>
+    <link>https://blog.curtpoff.com/tags/weather/</link>
+    <description>Recent content in Weather on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.curtpoff.com/tags/weather/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Christmas season in full swing</title>
+      <link>https://blog.curtpoff.com/posts/christmas-season-in-full-swing/</link>
+      <pubDate>Sat, 26 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/christmas-season-in-full-swing/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blog.curtpoff.com/cheesemas/&#34;&gt;Cheesemas&lt;/a&gt; went off without a hitch and everyone had a wonderful time. Now it&amp;rsquo;s time to sit back and enjoy some holiday laziness. Football, binge-watching TV shows, homemade posole. It&amp;rsquo;s all in the cards.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
