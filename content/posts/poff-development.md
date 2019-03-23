@@ -19,4 +19,4 @@ I hit the interview trail with a fancy presentation, talked up a big web game, f
 
 As it's a 1099 contract situation, I had to form a company. So I basically spent my 50th birthday sitting at home wearing my old-man glasses and filling out tax docs, mostly for the State of Arizona. Federal EIC was easy, but the Arizona Corporation Commision wasn't and neither was the AZ Dept. of Revenue.
 
-But it all worked out and Poff Development is an LLC in 'active' status with the State of Arizona as of March 21, 2019.
+But it all worked out and Poff Development is an LLC in 'active' status with the State of Arizona as of March 21, 2019. [Now available for hire](https://poffdev.com).
