@@ -56,7 +56,7 @@ description = "Curt Poff is a veteran techie now living in Tucson. Past homes in
 	siteDescription = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
   siteLogo = "androidify300.png"
 	title = "Curt Poff"
-  themeColor = ""
+  #themeColor = ""
 
 
 [sitemap]
