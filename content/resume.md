@@ -12,7 +12,7 @@ tags:
 ---
 
 **EXPERIENCE**
-**Owner & Operator**
+**Freelance Webmaster**
 Poff Development, Oct. 2017 - present
 —Sole proprietor of web development/management company that focuses on the HOA and property management sector.
 
@@ -51,7 +51,7 @@ KGW NewsChannel 8, Portland Ore., April 2000 - June 2001
 
 **TECHNICAL SKILLS**
 —HTML5, CSS, JavaScript (NodeJS, jQuery, Backbone), Bootstrap, Gulp, Heroku/Netlify, PostgreSQL, RESTful web services, Express/Pug/Handlebars, text editors, Adobe Creative Suite. Always eager to learn more.
-—I have extensive experience using open-source CMS (Drupal, Joomla, WordPress), static site generators, Agile project management, and Git version control. 
+—I have extensive experience using open-source CMS (Drupal, Joomla, WordPress), static site generators, Agile project management, and Git version control.
 —Able to function independently and/or in a team environment.
 
 **EDUCATION**
