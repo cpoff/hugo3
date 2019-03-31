@@ -13,11 +13,11 @@ tags:
 
 **EXPERIENCE**
 **Freelance Webmaster**
-Poff Development, Oct. 2017 - present
+[Poff Development](https://poffdev.com/ "Poff Development"), Oct. 2017 - present
 —Sole proprietor of web development/management company that focuses on the HOA and property management sector.
 
 **Operations Project Manager at Nike**
-Filter Digital (contractor on-site at Nike campus), May 2016 - Oct. 2017
+Filter Digital (on-site contractor), Portland, Ore., May 2016 - Oct. 2017
 —Led holiday initiatives for Nike.com Global Operations team. Held regular holiday check-ins with distributed geo merchandising teams, support, and in-house capabilities. Shepherded seasonal readiness programs from inception through execution.
 
 **Developer - Full Stack Javascript Immersion program**
