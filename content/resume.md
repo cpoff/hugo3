@@ -12,7 +12,7 @@ tags:
 ---
 
 **EXPERIENCE**
-**Owner & Operator**
+**Freelance Webmaster**
 Poff Development, Oct. 2017 - present
 —Sole proprietor of web development/management company that focuses on the HOA and property management sector.
 
