@@ -38,6 +38,7 @@ Macworld/PCWorld, San Francisco, Calif., Feb. 2005 - Jan. 2013
 —Defined project relevant strategic metrics to assess progress.
 —Coordinated and communicated efforts between marketing, editorial, development, and executive teams.
 —Recipient of the 2008 Macworld/PCWorld Leadership Award.
+—[A few bylines](https://www.macworld.com/search?query=curt+poff&submit=search "Macworld search for Curt Poff") are still around. 
 
 **Online Editor**
 Arizona Republic, Phoenix Ariz., Aug. 2001 - Feb. 2005
