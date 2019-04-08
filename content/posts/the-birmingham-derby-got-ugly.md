@@ -14,7 +14,7 @@ Today's match between Birmingham City and Aston Villa (both sides in the second 
 
 Here's [_The Guardian_'s report](https://www.theguardian.com/football/2019/mar/10/aston-villa-jack-grealish-attacked-by-spectator-birmingham-city "The Guardian's reort").
 
-Fan violence is nothing new in English football. But typically it involves pre- or post-game scuffles between rival supporters groups outside the stadium. Even to this day, visiting supporter sections are ringed with uniformed stewards who keep the rival factions away from each other. On-pitch problems are rare.
+Fan violence is nothing new in English football and certainly not new in the fiercest of rivalries. Like the one in Birmingham, known as the Second City Derby. But typically it involves pre- or post-game scuffles between rival supporters groups outside the stadium. Even to this day, visiting supporter sections are ringed with uniformed stewards who keep the rival factions away from each other. On-pitch problems are rare.
 
 Of course I learned of today's incident while watching Arsenal vs. Man U on NBCSN. They showed the Birmingham incident during halftime. When they cut back to the match, Arlo White (who grew up supporting Leicester City, not really a [prawn sandwich brigade](https://en.wikipedia.org/wiki/Prawn_sandwich_brigade)) talked about how we need to keep in mind the 'dark days' of English football or risk reverting to a time when fans were literally kept in cages. That really summed it all up for me.
 
@@ -34,11 +34,10 @@ I've taken my wife to the World Cup, to Azteca Stadium in Mexico City, and to on
 
 Crowd control isn't easy. But it's a policy-level decision: How crowds are moved into and out-of confined spaces, who (if anyone) monitors and forms a barrier between fans, the action, and each other. England learned those practices the hard way. It also has to involve the fans, and knowing there are certain lines you shouldn't cross. And now it appears as though some people have either forgotten - or never knew about - the totally unpleasant environment they've moved on from.
 
-Back to today's match in Birmingham: Birmingham City FC released a statement saying the fan who attacked Grealish will be banned for life. But I'm not sure how enforceable that punishment will be. 
+Back to today's match in Birmingham: Birmingham City FC released a statement saying the fan who attacked Grealish will be banned for life. But I'm not sure how enforceable that punishment will be.
 
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">CLUB STATEMENT: Birmingham City Football Club would like to apologise to Jack Grealish and Aston Villa Football Club for an incident in this afternoon’s derby match.<br><br>More 👉 <a href="https://t.co/RKGbVLLO7a">https://t.co/RKGbVLLO7a</a> <a href="https://twitter.com/hashtag/BCFC?src=hash&amp;ref_src=twsrc%5Etfw">#BCFC</a> <a href="https://t.co/gSUqxe1WbD">pic.twitter.com/gSUqxe1WbD</a></p>&mdash; Birmingham City FC (@BCFC) <a href="https://twitter.com/BCFC/status/1104747163219841024?ref_src=twsrc%5Etfw">March 10, 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">CLUB STATEMENT: Birmingham City Football Club would like to apologise to Jack Grealish and Aston Villa Football Club for an incident in this afternoon’s derby match.<br><br>More 👉 <a href="https://t.co/RKGbVLLO7a">https://t.co/RKGbVLLO7a</a> <a href="https://twitter.com/hashtag/BCFC?src=hash&ref_src=twsrc%5Etfw">#BCFC</a> <a href="https://t.co/gSUqxe1WbD">pic.twitter.com/gSUqxe1WbD</a></p>— Birmingham City FC (@BCFC) <a href="https://twitter.com/BCFC/status/1104747163219841024?ref_src=twsrc%5Etfw">March 10, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 Hopefully local police - who already have him under arrest - will take more severe measures.
 
