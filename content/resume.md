@@ -13,7 +13,7 @@ tags:
 **EXPERIENCE**
 **Webmaster**   
 [Pima Association of Governments](http://www.pagregion.com), Oct. 2017 - present   
-—Managed websites for PAG, RTA, and several associated properties.
+—Managed websites for PAG, RTA, and several associated digital properties.
 
 **Freelance Webmaster**   
 [Poff Development](https://poffdev.com/ "Poff Development"), Oct. 2017 - present —Sole proprietor of web development/management company.
