@@ -10,11 +10,13 @@ tags:
 - resume
 
 ---
-
 **EXPERIENCE**
-**Freelance Webmaster**
-[Poff Development](https://poffdev.com/ "Poff Development"), Oct. 2017 - present
-—Sole proprietor of web development/management company.
+**Webmaster**   
+[Pima Association of Governments](http://www.pagregion.com), Oct. 2017 - present   
+—Managed websites for PAG, RTA, and several associated properties.
+
+**Freelance Webmaster**   
+[Poff Development](https://poffdev.com/ "Poff Development"), Oct. 2017 - present —Sole proprietor of web development/management company.
 
 **Operations Project Manager at Nike**
 Filter Digital (on-site contractor), Portland, Ore., May 2016 - Oct. 2017
@@ -38,7 +40,7 @@ Macworld/PCWorld, San Francisco, Calif., Feb. 2005 - Jan. 2013
 —Defined project relevant strategic metrics to assess progress.
 —Coordinated and communicated efforts between marketing, editorial, development, and executive teams.
 —Recipient of the 2008 Macworld/PCWorld Leadership Award.
-—[A few bylines](https://www.macworld.com/search?query=curt+poff&submit=search "Macworld search for Curt Poff") are still around, but here are [my](https://www.macworld.com/article/1054389/youtube.html "Should YouTube Win An Eddy Award?") two [favs](https://www.macworld.com/article/1048488/explorer.html "Say Goodbye to IE for Mac"). 
+—[A few bylines](https://www.macworld.com/search?query=curt+poff&submit=search "Macworld search for Curt Poff") are still around, but here are [my](https://www.macworld.com/article/1054389/youtube.html "Should YouTube Win An Eddy Award?") two [favs](https://www.macworld.com/article/1048488/explorer.html "Say Goodbye to IE for Mac").
 
 **Online Editor**
 Arizona Republic, Phoenix Ariz., Aug. 2001 - Feb. 2005
@@ -56,6 +58,7 @@ KGW NewsChannel 8, Portland Ore., April 2000 - June 2001
 —Able to function independently and/or in a team environment.
 
 **EDUCATION**
+
 * B.S. in History, Portland State University
 * Pragmatic Product Management (2011)
 * Certificate of Completion, Portland Code School - Javascript Immersion (2016)
