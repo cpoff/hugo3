@@ -15,7 +15,7 @@ I liked the Cubanelles because they provide that chile pepper flavor without a t
 
 The tomatoes didn't fare so well. Almost all of the green tomatoes on my big plants (Celebrity & Bush Goliath) were looted by burrowing ground squirells. They literally dug a hold next to the garden plot and staged a jailbreak on everyone one of my plants. Fuckers!
 
-New gig is going very well. I started a full-time webmaster role in May so I cycled off the freelance contract. Now I'm building websites in a quasi-governmental environment. Whereas before it was always move fast and think faster, now I can take several months to plan a web launch. It will take some getting used to. But so far everyone's been very nice.
+New gig is going very well. Now I'm building websites in a quasi-governmental environment. Whereas before it was always move fast and think faster, now I can take several months to plan a web launch. It will take some getting used to. But so far everyone's been very nice.
 
 
 
