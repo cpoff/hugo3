@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.curtpoff.com/posts/summer-report/</loc>
+    <lastmod>2019-07-05T10:25:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.curtpoff.com/posts/back-in-the-ol-work-routine/</loc>
+    <lastmod>2019-06-07T23:25:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.curtpoff.com/posts/omg-we-have-a-pepper/</loc>
+    <lastmod>2019-03-26T10:25:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.curtpoff.com/posts/omg-we-have-a-pepper/</loc>
     <lastmod>2019-03-26T10:25:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -517,7 +538,7 @@
   
   <url>
     <loc>https://blog.curtpoff.com/</loc>
-    <lastmod>2019-03-26T10:25:00-07:00</lastmod>
+    <lastmod>2019-07-05T10:25:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -683,7 +704,7 @@
   
   <url>
     <loc>https://blog.curtpoff.com/categories/job/</loc>
-    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-07T23:25:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -844,7 +865,7 @@
   
   <url>
     <loc>https://blog.curtpoff.com/posts/</loc>
-    <lastmod>2019-03-26T10:25:00-07:00</lastmod>
+    <lastmod>2019-07-05T10:25:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -960,6 +981,13 @@
   </url>
   
   <url>
+    <loc>https://blog.curtpoff.com/categories/summer/</loc>
+    <lastmod>2019-07-05T10:25:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.curtpoff.com/tags/summer/</loc>
     <lastmod>2016-10-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1038,7 +1066,7 @@
   
   <url>
     <loc>https://blog.curtpoff.com/tags/tucson/</loc>
-    <lastmod>2019-02-15T11:23:00-07:00</lastmod>
+    <lastmod>2019-07-05T10:25:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -1066,7 +1094,7 @@
   
   <url>
     <loc>https://blog.curtpoff.com/tags/weather/</loc>
-    <lastmod>2015-12-26T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-05T10:25:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -1101,7 +1129,7 @@
   
   <url>
     <loc>https://blog.curtpoff.com/tags/work/</loc>
-    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-05T10:25:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
