@@ -16,7 +16,8 @@ tags:
 —Managed websites for PAG, RTA, and several associated digital properties.
 
 **Freelance Webmaster**   
-[Poff Development](https://poffdev.com/ "Poff Development"), Oct. 2017 - present —Sole proprietor of web development/management company.
+[Poff Development](https://poffdev.com/ "Poff Development"), Oct. 2017 - present 
+—Sole proprietor of web development/management company.
 
 **Operations Project Manager at Nike**
 Filter Digital (on-site contractor), Portland, Ore., May 2016 - Oct. 2017
