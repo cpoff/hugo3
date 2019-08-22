@@ -20,7 +20,7 @@ tags:
 —Sole proprietor of web development/management company.
 
 **Operations Project Manager at Nike**
-Filter Digital (on-site contractor), Portland,OR, May 2016 - Oct. 2017
+Filter Digital (on-site contractor), Portland OR, May 2016 - Oct. 2017
 —Led holiday initiatives for Nike.com Global Operations team. Held regular holiday check-ins with distributed geo merchandising teams, support, and in-house capabilities. Shepherded seasonal readiness programs from inception through execution.
 
 **Developer - Full Stack Javascript Immersion program**
@@ -28,14 +28,14 @@ Portland Code School, May 2015 - Aug. 2015
 —Over 500 hours of hands-on experience, building full-stack, responsive web applications with JavaScript using Node, MVC frameworks, and Test-Driven Development.
 
 **Senior Producer - Interactive**
-Walmart.com, San Bruno, CA, Jan. 2013 - Nov. 2014
+Walmart.com, San Bruno CA, Jan. 2013 - Nov. 2014
 —Senior member of the web producer team in the Creative department in the Walmart.com Customer Experience group. Delivered campaign assets and content in support of e-commerce.
 —Managed delivery of web assets (wireframes, prototypes, heroes) and content, through the entire creative process: brief presentation, look distribution, iterative feedback loops, handoff.
 —Arrived at user experience decisions through user research, development, and iterative feedback loops.
 —Worked closely with external agencies and vendors.
 
 **Sr. Web Producer, Sr. Project Manager, Product Manager**
-Macworld/PCWorld, San Francisco, CA, Feb. 2005 - Jan. 2013
+Macworld/PCWorld, San Francisco CA, Feb. 2005 - Jan. 2013
 —Managed all editorial products (home pages, index and article pages), publishing platform (CMS), and live events through the entire product lifecycle.
 —Drove clear and efficient processes for the enhancement or creation of additional assets, making changes as needed to processes and procedures to find efficiencies.
 —Defined project relevant strategic metrics to assess progress.
