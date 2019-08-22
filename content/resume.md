@@ -12,7 +12,7 @@ tags:
 ---
 **EXPERIENCE**
 **Webmaster**   
-[Pima Association of Governments](http://www.pagregion.com), Oct. 2017 - present   
+[Pima Association of Governments](http://www.pagregion.com), May 2019 - present   
 —Managed websites for PAG, RTA, and several associated digital properties.
 
 **Freelance Webmaster**   
