@@ -23,4 +23,4 @@ What most people don't know is that greyhounds lead a very sedentary lifestyle. 
 
 I'm kinda envious TBH.
 
-We're already talking about possibly fostering another greyhound. Maybe we can help with the SA and get another poor rescue in good hands. Based on our first experience, I can't recommend greyhounds enough. They are the most social, calm, routined pet a household could want.
+We're already talking about possibly fostering another greyhound. Maybe we can alleviate Geordie's anxiety and get another poor rescue in good hands. Based on our first experience, I can't recommend greyhounds enough. They are the most lovable, social, routined pet a household could want.
