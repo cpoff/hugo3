@@ -13,7 +13,7 @@ This poor guy showed up with an infected toe (which has since been amputated), a
 
 ![](https://blog.curtpoff.com/uploads/IMG_20191002_180914.jpg)
 
-He's fitting in pretty well. We have an enclosed yard so he has free run to do his business. He's attended several meet-and-greet events and has done very well at all. He's also met all the local family members and most of their pets - doing very well at those too. So he's making himself right at home. Then this week my mom delivered a nice fleece-lined raincoat so he can stop being such a pansy in the rain.
+He's fitting in pretty well. We have an enclosed yard so he has free run to do his business. He's attended several meet-and-greet events and has done very well at all. He's also met all the local family members and most of their pets - doing very well at those too. So he's making himself right at home. Plus this week my mom delivered a nice fleece-lined raincoat so he can stop being such a pansy in the rain.
 
 We have to deal with separation anxiety so Ann takes him to work with her. He does great there and everyone in that office loves him.
 
