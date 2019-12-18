@@ -19,4 +19,4 @@ We have to deal with separation anxiety so Ann takes him to work with her. He do
 
 What most people don't know is that greyhounds lead a very sedentary lifestyle. They're only active about four hours a day. The other 20 hours are spent laying down and naptime. I'm kinda envious TBH.
 
-We're already talking about possibly fostering another greyhound. Maybe we can help in SA and get another rescue in good hands.
+We're already talking about possibly fostering another greyhound. Maybe we can help with the SA and get another poor rescue in good hands. Based on our first experience, I can't recommend greyhounds enough. They are the most social, calm, routined pet a household could want.
