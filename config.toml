@@ -8,7 +8,7 @@ rss = true
 theme = "hyde-hyde"
 title = "Curt Poff"
 author = "Curt Poff"
-description = "Curt Poff is a veteran techie now living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
+description = "Curt Poff is a veteran techie living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
 
 [permalinks]
   posts = "/posts/:title/"
