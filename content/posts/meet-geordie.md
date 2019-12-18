@@ -17,7 +17,7 @@ He's fitting in pretty well. We have an enclosed yard so he has free run to do h
 
 We have to deal with separation anxiety so Ann takes him to work with her. He does great there and everyone in that office loves him.
 
-What most people don't know is that greyhounds lead a very sedentary lifestyle. They're only active about four hours a day. The other 20 hours are spent laying down and naptime. Seriously, it's a ton of this:
+What most people don't know is that greyhounds lead a very sedentary lifestyle. They're only active about four hours a day. The other 20 hours are spent laying down and naptime. Seriously, it's a whole lotta this:
 
 ![](https://blog.curtpoff.com/uploads/lazy.jpg)
 
