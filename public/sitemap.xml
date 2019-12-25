@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.curtpoff.com/posts/meet-geordie/</loc>
+    <lastmod>2019-12-18T04:50:15+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.curtpoff.com/posts/summer-report/</loc>
     <lastmod>2019-07-05T10:25:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -531,7 +538,7 @@
   
   <url>
     <loc>https://blog.curtpoff.com/</loc>
-    <lastmod>2019-07-05T10:25:00-07:00</lastmod>
+    <lastmod>2019-12-18T04:50:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -572,6 +579,13 @@
   <url>
     <loc>https://blog.curtpoff.com/tags/dev/</loc>
     <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.curtpoff.com/tags/dog/</loc>
+    <lastmod>2019-12-18T04:50:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -628,6 +642,13 @@
   <url>
     <loc>https://blog.curtpoff.com/categories/garden/</loc>
     <lastmod>2019-03-26T10:25:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.curtpoff.com/tags/geordie/</loc>
+    <lastmod>2019-12-18T04:50:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -858,7 +879,7 @@
   
   <url>
     <loc>https://blog.curtpoff.com/posts/</loc>
-    <lastmod>2019-07-05T10:25:00-07:00</lastmod>
+    <lastmod>2019-12-18T04:50:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -933,7 +954,7 @@
   
   <url>
     <loc>https://blog.curtpoff.com/categories/social/</loc>
-    <lastmod>2016-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-18T04:50:15+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
