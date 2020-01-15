@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev on Curt Poff</title>
+    <link>https://blog.curtpoff.com/categories/dev/</link>
+    <description>Recent content in Dev on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Jan 2019 19:53:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://blog.curtpoff.com/categories/dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forestry.io now behind the scenes</title>
+      <link>https://blog.curtpoff.com/posts/forestry.io-now-behind-the-scenes/</link>
+      <pubDate>Mon, 14 Jan 2019 19:53:00 -0700</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/forestry.io-now-behind-the-scenes/</guid>
+      <description>&lt;p&gt;As &lt;a href=&#34;https://blog.curtpoff.com/posts/hugo-is-now-driving-this-site/&#34; title=&#34;Hugo now running this site&#34;&gt;mentioned earlier&lt;/a&gt;, I&amp;rsquo;m now running a Hugo static site generator. It&amp;rsquo;s going great so far so I decided to install a CMS as phase 2.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

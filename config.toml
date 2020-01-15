@@ -1,0 +1,81 @@
+baseurl = "https://blog.curtpoff.com"
+#disqusShortname = "cpoff"
+enableRobotsTXT = true
+googleAnalytics = "UA-315392-10"
+languageCode = "en"
+paginate = 5
+rss = true
+theme = "hyde-hyde"
+title = "Curt Poff"
+author = "Curt Poff"
+description = "Curt Poff is a veteran techie living in Tucson. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
+
+[permalinks]
+  posts = "/posts/:title/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[menu.main]]
+	identifier = "about"
+	name = "About me"
+	url = "/about/"
+	weight = 20
+
+[[menu.main]]
+	identifier = "posts"
+	name = "Posts"
+	url = "/posts/"
+	weight = 10
+
+[[menu.main]]
+  identifier = "rss"
+  name = "RSS"
+  url = "/index.xml"
+  weight = 50
+
+[[menu.main]]
+	identifier = "contact"
+	name = "Contact"
+	url = "/contact/"
+	weight = 30
+
+[params]
+	author = "Curt Poff"
+	copyright = "Curt Poff"
+	dateformat = "Jan 2, 2006"
+	description = "Tucson resident, Missouri native, web guy, sports fan"
+  postNavigation = false
+  relatedPosts = true
+	highlightjs = true
+	highlightjsstyle = "github"
+	license = "| CC by SA 4.0"
+	licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+	showBuiltWith = true
+	siteDescription = "Curt Poff is a veteran techie now living in Tucson AZ. Past homes include Portland and the Bay Area, where he worked for Macworld, Walmart.com, and Nike."
+  siteLogo = "androidify300.png"
+	title = "Curt Poff"
+  #themeColor = ""
+
+
+[sitemap]
+	 changefreq = "weekly"
+	 filename = "sitemap.xml"
+	 priority = 0.5
+
+[params.social]
+	email = "curt.poff@gmail.com"
+	github = "cpoff"
+	gravatar = "curt.poff@gmail.com"
+	instagram = "cpoff"
+	keybase = "cpoff"
+	linkedin = "cpoff"
+	telegram = "cpoff"
+	twitter = "cpoff"
+
+[blackfriday]
+	 angledQuotes = false
+	 extensions = ["hardLineBreak"]
+	 fractions = false
+	 plainIDAnchors = true

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Montage on Curt Poff</title>
+    <link>https://blog.curtpoff.com/tags/montage/</link>
+    <description>Recent content in Montage on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.curtpoff.com/tags/montage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another quality visit</title>
+      <link>https://blog.curtpoff.com/posts/another-quality-visit/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/another-quality-visit/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://twitter.com/cbracy&#34;&gt;Cathering Bracy&lt;/a&gt; paid her first visit to Oregon, and we happily played host on the Portland wing of her expedition.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Happy birthday to my lovely wife</title>
+      <link>https://blog.curtpoff.com/posts/happy-birthday-to-my-lovely-wife/</link>
+      <pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/happy-birthday-to-my-lovely-wife/</guid>
+      <description>&lt;p&gt;My wife - Ann Chihak Poff - turns 41 on Friday. Check out &lt;a href=&#34;http://gofitgirl.com/&#34;&gt;her blog&lt;/a&gt; and I&amp;rsquo;m sure you&amp;rsquo;ll agree that she may be the most lovely 41-year-old on the planet.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

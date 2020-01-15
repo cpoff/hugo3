@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dog on Curt Poff</title>
+    <link>https://blog.curtpoff.com/tags/dog/</link>
+    <description>Recent content in Dog on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Dec 2019 04:50:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.curtpoff.com/tags/dog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Meet Geordie</title>
+      <link>https://blog.curtpoff.com/posts/meet-geordie/</link>
+      <pubDate>Wed, 18 Dec 2019 04:50:15 +0000</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/meet-geordie/</guid>
+      <description>This poor guy showed up with an infected toe (which has since been amputated), a case of hookworms, numerous scars from god knows what kind of living conditions, and a big ol&amp;rsquo; smile. Don&amp;rsquo;t believe me?
+He&amp;rsquo;s fitting in pretty well. We have an enclosed yard so he has free run to do his business. He&amp;rsquo;s attended several meet-and-greet events and has done very well at all. He&amp;rsquo;s also met all the local family members and most of their pets - doing very well at those too.</description>
+    </item>
+    
+  </channel>
+</rss>

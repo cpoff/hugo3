@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Curt Poff</title>
+    <link>https://blog.curtpoff.com/tags/hugo/</link>
+    <description>Recent content in Hugo on Curt Poff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Jan 2019 19:53:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://blog.curtpoff.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forestry.io now behind the scenes</title>
+      <link>https://blog.curtpoff.com/posts/forestry.io-now-behind-the-scenes/</link>
+      <pubDate>Mon, 14 Jan 2019 19:53:00 -0700</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/forestry.io-now-behind-the-scenes/</guid>
+      <description>&lt;p&gt;As &lt;a href=&#34;https://blog.curtpoff.com/posts/hugo-is-now-driving-this-site/&#34; title=&#34;Hugo now running this site&#34;&gt;mentioned earlier&lt;/a&gt;, I&amp;rsquo;m now running a Hugo static site generator. It&amp;rsquo;s going great so far so I decided to install a CMS as phase 2.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo is now driving this site</title>
+      <link>https://blog.curtpoff.com/posts/hugo-is-now-driving-this-site/</link>
+      <pubDate>Wed, 02 Jan 2019 21:43:54 -0700</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/hugo-is-now-driving-this-site/</guid>
+      <description>&lt;p&gt;Having spent the past couple months wrestling with Jekyll and Ruby gems - or more specifically: gem dependancies - I sought a new static site generator.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My first Hugo post</title>
+      <link>https://blog.curtpoff.com/posts/my-first-hugo-post/</link>
+      <pubDate>Wed, 02 Jan 2019 12:47:13 -0700</pubDate>
+      
+      <guid>https://blog.curtpoff.com/posts/my-first-hugo-post/</guid>
+      <description>This is my first post using the Hugo static site generator. I&amp;rsquo;m also trying to customize the Hyde-Hyde theme and add a contact page.</description>
+    </item>
+    
+  </channel>
+</rss>
