@@ -14,6 +14,6 @@ I am Curt Poff. I’ve worked as a web producer/webmaster/project manager for th
 
 Here's my [homepage ](https://curtpoff.com "Curt Poff homepage"), my [resume](/resume/ "Curt Poff resume"), and my [company website](https://poffdev.com/ "Poff Development").
 
-I’m married to the lovely [Go Fit Girl!](https://gofitgirl.com). We are now located in Tucson after stays in Portland and the Bay Area.
+I’m married to the lovely [Go Fit Girl!](https://gofitgirl.com) We are now located in Tucson after stays in Portland and the Bay Area.
 
 Fair to say I am a huge sports fan. My teams include the Kansas City Royals, Chiefs, Mizzou, Newcastle United (It's a long story), Portland State, Timbers, and Trail Blazers. It’s a lot, I know.
