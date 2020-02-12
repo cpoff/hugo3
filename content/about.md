@@ -10,7 +10,7 @@ tags:
 - Curt Poff
 
 ---
-I am Curt Poff. I’ve worked as a web producer/project manager for the past 15 years at Macworld, Walmart.com, and Nike (as a contractor). I also went through the _Javascript Immersion_ program at now-defunct Portland Code School.
+I am Curt Poff. I’ve worked as a web producer/webmaster/project manager for the past 15 years at Macworld, Walmart.com, and Nike (as a contractor). I also went through the _Javascript Immersion_ program at now-defunct Portland Code School.
 
 Here's my [homepage ](https://curtpoff.com "Curt Poff homepage"), my [resume](/resume/ "Curt Poff resume"), and my [company website](https://poffdev.com/ "Poff Development").
 
