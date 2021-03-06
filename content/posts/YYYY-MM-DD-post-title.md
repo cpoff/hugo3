@@ -1,23 +1,17 @@
 ---
 layout: post
-title:  "Summer in Spring"
-description:  "This weekend's temps are expect to be in the mid-80s. Can't say I'm terribly upset about that."
+title:  "Hed goes here"
+description:  "Meta description goes here"
 author: Curt Poff
-date:   2021-03-06
-categories: ["weather"]
-tags: ["Tucson","Geordie"]
-draft: false
+date:   2019-01-02T12:47:13-07:00
+categories: ["general"]
+tags: ["",""]
+draft: true
 ---
 
-This weekend's temps are expect to be in the mid-80s. Can't say I'm terribly upset about that.
+Intro paragraph. 
 [LINK TEXT](http://www.google.com)
 
 <!--more-->
 
-I know my parents endured a frigid stretch this winter back in Missouri. Happy to do my modest gardening plan and get the backyard cleaned up again, and ready for spring.
-
-![](https://blog.curtpoff.com/uploads/riptide.jpg)
-
-Also: We're dog-sitting Riptide for 24 hours. His mama went up to Phoenix to volunteer at a medical event. He's a little more nervous than Geordie and very sensitive to certain noises. Of course we live in next to a giant USAF base, so jets are pretty common.
-
-Good news is he already found Geordie's "safe space." That's the dark, quiet nook in the spare room where he can retreat when frightening noises appear.
+Body text goes here.
