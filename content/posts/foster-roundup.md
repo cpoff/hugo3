@@ -19,7 +19,7 @@ That's the whole shebang in a picture Ann created for the recent AZ Gives Day. T
 
 Millie actually returned to us briefly after not working out with her original family. She's now been re-homed. Plucky and Koki we haven't seen since, but all original handover reports were positive. Tessa, Sophie, and Millie have all joined us at the various dog parks around Tucson.
 
-And Mia didn't even last 24 at new home. Their established greyhound didn't like having her around, so she immediately went to a different family with an established dog. Everything appears to have worked out.
+And Mia didn't even last 24 hours at her new home. Their established greyhound didn't like having her around, so she immediately went to a different family with an established dog. Everything appears to have worked out in that new location.
 
 Yes, it's tough getting to know such a sweet bunch of dogs only to see them shipped off for someone else to enjoy. They all arrive shy and a little terrified. We're the first house any have ever lived in. But they learn the few rules, figure out they how to ride in the car, discover which stuffies they can drag out of the toy basket, and follow Geordie (our stable pony) out back to do their business. Pretty soon they have personalities and become a joy to be around.
 
