@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "hyde-hyde.css",
-	"sourceRoot": "/Users/cpoff/documents/hugo3",
+	"sourceRoot": "/Users/poffdev/documents/hugo3",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/hyde-hyde.scss",
 		"../../documents/hugo3/themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",

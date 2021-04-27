@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "print.css",
-	"sourceRoot": "/Users/cpoff/documents/hugo3",
+	"sourceRoot": "/Users/poffdev/documents/hugo3",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/print.scss",
 		"../../documents/hugo3/themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",
