@@ -21,6 +21,6 @@ Millie actually returned to us briefly after not working out with her original f
 
 And Mia didn't even last 24 hours at her new home. Their established greyhound didn't like having her around, so she immediately went to a different family with an established dog. Everything appears to have worked out in that new location.
 
-Yes, it's tough getting to know such a sweet bunch of dogs only to see them shipped off for someone else to enjoy. They all arrive shy and a little terrified. We're the first house any have ever lived in. But they learn the few rules, figure out they how to ride in the car, discover which stuffies they can drag out of the toy basket, and follow Geordie (our stable pony) out back to do their business. Pretty soon they have personalities and become a joy to be around.
+Yes, it's tough getting to know such a sweet bunch of dogs only to see them shipped off for someone else to enjoy. They all arrive shy and a little terrified. We're the first house any have ever lived in. But they learn the few rules, experience the joy of riding in the car with their head out the window, discover which stuffies they can drag out of the toy basket, and follow Geordie (our stable pony) out back to do their business. Pretty soon they have personalities and become a joy to be around.
 
 But we're going to take a break. Geordie is in dire need of all the attention, and we're spending way too much on dog food. Plus it's about to get hot down here and greyhounds require special care in the extreme heat. So one hound is enough till it cools down.
